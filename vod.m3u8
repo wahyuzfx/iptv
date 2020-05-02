@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:0,NET TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417042~acl=/hls-b/ingest_875_*/*~hmac=9a638c4d417dd07478028d2308db35d62984d4d6c740442ab7fa21e0f460e56b/hls-b/ingest_875_480p/index.m3u8
+#EXTINF:0,Kompas TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417056~acl=/hls-b/ingest_874_*/*~hmac=dbbd6438167d5776f34f169097c169cd4ee38487ff408c5173e0826192ea2086/hls-b/ingest_874_480p/index.m3u8
+#EXTINF:0,RTV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417142~acl=/hls-p/ingest_geo_1561_*/*~hmac=32c4d97520a24f2f5190c8eb234f4d480918978636542af58ad2063b41eed3c6/hls-p/ingest_geo_1561_480p/index.m3u8
+#EXTINF:0,Berita Satu SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417142~acl=/hls-p/ingest_6165_*/*~hmac=2ab9b82dafab95de14ca3376fe8b37ef34724b951af190ce5fc0af65a0dcbe67/hls-p/ingest_6165_480p/index.m3u8
+#EXTINF:0,TVRI SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588416852~acl=/hls-b/ingest_6441_*/*~hmac=6f41bc6fa6bd91272b3a40e01f2bbcce7aa1424d251392ad9de2d89d88f6ba34/hls-b/ingest_6441_480p/index.m3u8
+#EXTINF:0,TRANS TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588416945~acl=/hls-b/ingest_733_*/*~hmac=cd9803dd834d9a0e9759fa0253fcb0638a8960f5221699529036ac4158646479/hls-b/ingest_733_480p/index.m3u8
+#EXTINF:0,TRANS 7 SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417090~acl=/hls-b/ingest_734_*/*~hmac=99817e424a08fbeba557dd77d6ead0fb7ff72ac39d0c7ecf0851242505e1bd10/hls-b/ingest_734_480p/index.m3u8
+#EXTINF:0,GTV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417115~acl=/hls-b/ingest_778_*/*~hmac=3459c18730d7f6accd02c706dd893ba9ad07d3e54071ae70011a74d542c98482/hls-b/ingest_778_480p/index.m3u8
+#EXTINF:0,RCTI SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417099~acl=/hls-b/ingest_665_*/*~hmac=4596ac24f9ab2cab607fc3f4f03f3ed153a6f74ea8eb110c57def5301932ff17/hls-b/ingest_665_480p/index.m3u8
+#EXTINF:0,SCTV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417142~acl=/hls-b/ingest_204_*/*~hmac=e9b814e49b56b300228abd2dad07117b8105028b82fe51a44ce0ce98cf096f25/hls-b/ingest_204_480p/index.m3u8
+#EXTINF:0,Indosiar SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588416921~acl=/hls-b/ingest_205_*/*~hmac=c3de6399ccab1d38d83acc6e24870143613dd8ce80b5787bb5c733a271b2f940/hls-b/ingest_205_480p/index.m3u8
+#EXTINF:0,Metro TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417103~acl=/hls-b/ingest_777_*/*~hmac=553e52bafd411cc6d4ac6dae84a55931e1f313242bfd3d6497bd818954b60e60/hls-b/ingest_777_480p/index.m3u8
+#EXTINF:0,MNC TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417142~acl=/hls-b/ingest_870_*/*~hmac=5192ba2187b7fe05a751c6c0d4e7a4d160a5ab3fe4889150305a1bc662a76933/hls-b/ingest_870_480p/index.m3u8
+#EXTINF:0,O Channel SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588416941~acl=/hls-b/ingest_206_*/*~hmac=d6b5f7dbbdd2de5ffc0fae600b0e1b27e7e68cb7cfac1b4d7efd46c43111cb03/hls-b/ingest_206_480p/index.m3u8
+#EXTINF:0,INEWS SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417142~acl=/hls-p/ingest_5409_*/*~hmac=0ff376a8d6da5f99dbe0bd47590c6f49457014c6aa4b55c4278a425a48997ea8/hls-p/ingest_5409_480p/index.m3u8
+#EXTINF:0,JAK TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417074~acl=/hls-p/ingest_5415_*/*~hmac=d22d49b1852e9133e0906c0c831108922df11ed507c99dee45410411327a35d2/hls-p/ingest_5415_480p/index.m3u8
+#EXTINF:0,O Shop SD
+http://3.0.93.95:25461/upload/stream-off.mp4
+#EXTINF:0,MYTV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417142~acl=/hls-p/ingest_6711_*/*~hmac=be029aa59a2b920d377db786d5ef4718930c18983606b3cb8d9dbae43b9f8c84/hls-p/ingest_6711_480p/index.m3u8
+#EXTINF:0,DAAI TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1588417068~acl=/hls-p/ingest_6482_*/*~hmac=35224ba5da8e33e08a4e56ef43efa94c22421b7ff04c9b2a93b13e11f947282c/hls-p/ingest_6482_480p/index.m3u8
