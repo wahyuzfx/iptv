@@ -78,8 +78,6 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=851317AB04C0CADDD2
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=AF12881090B35A16481BAF385A7CAEA4E595BC98&profile=pass
 #EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/h1.png" group-title="Khusus Indihome",History Channel
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=75DAA0C535858DB22080C1C86709CEF357176ED2&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/indosiar.png" group-title="Khusus Indihome",Indosiar
-http://203.153.218.28:9981/stream/channelid/261435212?ticket=42F5FD5FFD34C9B66FAFDC40D510F30E6C1A0A4A&profile=pass
 #EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/natgeopeople.png" group-title="Khusus Indihome",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
 #EXTINF:-1 tvg-logo="http://193.70.73.242:516
