@@ -1,5 +1,4 @@
 #EXTM3U
-================================ Lokal =========================================
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/nettv.png" group-title="TV Lokal",NET
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/antv.png" group-title="TV Lokal",ANTV
