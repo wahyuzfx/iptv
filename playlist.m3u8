@@ -4,15 +4,15 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/antv.png" group-title="TV Lokal",ANTV
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/sctv.png" group-title="TV Lokal",SCTV
-https://dl.dropbox.com/s/9fqsjx833gxbyyu/sctv.m3u8?dl=0
+https://raw.githubusercontent.com/burhansyam/iptv/master/sctv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/indosiar.png" group-title="TV Lokal",Indosiar
 https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/rcti.png" group-title="TV Lokal",RCTI
 https://dl.dropboxusercontent.com/s/m9edqrb3vbm6ppb/rcti.m3u8?dl=1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/gtv.png" group-title="TV Lokal",GTV
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
+https://raw.githubusercontent.com/burhansyam/iptv/master/globaltv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/mnctv.png" group-title="TV Lokal",MNCTV
-https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
+https://raw.githubusercontent.com/burhansyam/iptv/master/mnctv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/inewstv.png" group-title="TV Lokal",iNews TV
 https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/tvone.png" group-title="TV Lokal",TV One
