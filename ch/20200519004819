@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="SCTV.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/sctv.png",SCTV
+http://kemana.pandawa.live/stream/2.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="Indosiar.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/Indosiar.png",Indosiar
+http://kemana.pandawa.live/stream/3.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="NetTV.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/nettv.jpg",Net TV HD
+http://kemana.pandawa.live/stream/6.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="ANTV.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/antv.png",ANTV
+http://kemana.pandawa.live/stream/7.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="KompasTv.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/kompastv.png",Kompas TV
+http://kemana.pandawa.live/stream/8.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="CNNIndonesia.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/cnn.jpg",CNN Indonesia
+http://kemana.pandawa.live/stream/9.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="JTV.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/JTV.jpg",JTV
+http://kemana.pandawa.live/stream/11.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="JakTV.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/jaktv.jpg",Jak TV
+http://kemana.pandawa.live/stream/12.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="BeritaSatu.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/beritasatu.jpg",Berita Satu
+http://kemana.pandawa.live/stream/13.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="CNBCIndonesia.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/cnbc.png",CNBC Indonesia
+http://kemana.pandawa.live/stream/14.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="TVRI.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/tvri.jpg",TVRI Nasional
+http://kemana.pandawa.live/stream/15.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="TransTV.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/transtv.png",Trans TV
+http://kemana.pandawa.live/stream/17.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="Trans7.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/trans7.png",Trans7
+http://kemana.pandawa.live/stream/18.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="RajawaliTV.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/rtv.png",RTV
+http://kemana.pandawa.live/stream/19.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="TVOne.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/tvone.png",TVOne
+http://kemana.pandawa.live/stream/26.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="HBOHits.id" group-title="Movies" tvg-logo="https://assets.cdn.pandawa.live/logo/hbo_hits.png",HBO Hits
+http://kemana.pandawa.live/stream/27.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="Hits.mnc" group-title="Movies" tvg-logo="https://assets.cdn.pandawa.live/logo/hits.png",Hits
+http://kemana.pandawa.live/stream/29.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="FOXCrime.mnc" group-title="Movies" tvg-logo="https://assets.cdn.pandawa.live/logo/fox_crime.png",Fox Crime
+http://kemana.pandawa.live/stream/35.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="Kplus.id" group-title="Movies" tvg-logo="https://assets.cdn.pandawa.live/logo/kplus.png",K-Plus Drama
+http://kemana.pandawa.live/stream/41.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="KBS.id" group-title="Movies" tvg-logo="https://assets.cdn.pandawa.live/logo/kbs_world.png",KBS World
+http://kemana.pandawa.live/stream/47.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="Blue Ant Extreme" group-title="Movies" tvg-logo="https://assets.cdn.pandawa.live/logo/blueantext.png",Blue Ant Extreme
+http://kemana.pandawa.live/stream/51.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="Warner TV HD" group-title="Movies" tvg-logo="https://assets.cdn.pandawa.live/logo/warnet.png",Warner TV
+http://kemana.pandawa.live/stream/54.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="MTV_LIVE_HD.id" group-title="Music" tvg-logo="https://assets.cdn.pandawa.live/logo/mtv_live.png",MTV Live ID
+http://kemana.pandawa.live/stream/63.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="DiscoveryAsia.my" group-title="Knowledge" tvg-logo="https://assets.cdn.pandawa.live/logo/discoveryasia.png",Discovery Asia
+http://kemana.pandawa.live/stream/56.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="Smithsonian.id" group-title="Knowledge" tvg-logo="https://assets.cdn.pandawa.live/logo/smithsonian.png",Smithsonian
+http://kemana.pandawa.live/stream/59.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="DisneyJunior.id" group-title="Kids" tvg-logo="https://assets.cdn.pandawa.live/logo/disneyjunior.png",Disney Junior
+http://kemana.pandawa.live/stream/77.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="Spacetoon.id" group-title="Kids" tvg-logo="https://assets.cdn.pandawa.live/logo/spacetoon.png",Spacetoon Plus
+http://kemana.pandawa.live/stream/85.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="Dunia Anak" group-title="Kids" tvg-logo="https://assets.cdn.pandawa.live/logo/dunia_anak.png",Dunia Anak
+http://kemana.pandawa.live/stream/89.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="Khazanah" group-title="Religion" tvg-logo="https://assets.cdn.pandawa.live/logo/khazanah.png",Khazanah
+http://kemana.pandawa.live/stream/123.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="" group-title="Religion" tvg-logo="https://assets.cdn.pandawa.live/logo/tv9nu.png",TV9 NU
+http://kemana.pandawa.live/stream/124.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="" group-title="Religion" tvg-logo="https://assets.cdn.pandawa.live/logo/muhammadiyahtv.png",Muhammadiyah TV
+http://kemana.pandawa.live/stream/125.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="" group-title="Religion" tvg-logo="https://assets.cdn.pandawa.live/logo/mqtv.png",MQTV
+http://kemana.pandawa.live/stream/126.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="Al Quran Al Kareem" group-title="Religion" tvg-logo="https://assets.cdn.pandawa.live/logo/alquran.png",AlQuran AlKareem
+http://kemana.pandawa.live/stream/127.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="RodjaTV.id" group-title="Religion" tvg-logo="https://assets.cdn.pandawa.live/logo/rodjatv.png",Rodja TV
+http://kemana.pandawa.live/stream/128.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="DAAI" group-title="Religion" tvg-logo="https://assets.cdn.pandawa.live/logo/daaitv.png",DAAI TV
+http://kemana.pandawa.live/stream/129.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="Dunia Lain" group-title="Variety Show" tvg-logo="https://assets.cdn.pandawa.live/logo/dunia_lain.png",Dunia Lain
+http://kemana.pandawa.live/stream/108.ts?token=msQEPu2ZZ7&v=20200518
+#EXTINF:-1 tvg-ID="" group-title="News" tvg-logo="https://assets.cdn.pandawa.live/logo/bloomberg.png",Bloomberg ID
+http://kemana.pandawa.live/stream/130.ts?token=msQEPu2ZZ7&v=20200518
