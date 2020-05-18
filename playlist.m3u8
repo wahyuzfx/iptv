@@ -4,7 +4,7 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Lokal",ANTV
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Lokal",SCTV
-https://raw.githubusercontent.com/burhansyam/iptv/master/sctv.m3u8
+https://raw.githubusercontent.com/burhansyam/iptv/master/ch/sctv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Lokal",Indosiar
 https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rcti_big1.png" group-title="TV Lokal",RCTI
@@ -83,9 +83,9 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C87
 #EXTINF:-1 tvg-logo="http://193.70.73.242:516
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/beinsports1.png" group-title="Sports",Bein Sports 1
-http://mantul.biz.id:8888/live/omzul/xreqccXrty/7.m3u8
+https://raw.githubusercontent.com/burhansyam/iptv/master/ch/bein1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/beinsports2.png" group-title="Sports",Bein Sports 2
-http://mantul.biz.id:8888/live/omzul/xreqccXrty/8.m3u8
+https://raw.githubusercontent.com/burhansyam/iptv/master/ch/bein2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/beinxtra.png" group-title="Sports",beIN Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/foxsport.png" group-title="Sports",FOX Sports
