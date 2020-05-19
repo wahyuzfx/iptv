@@ -4,7 +4,7 @@ http://kemana.pandawa.live/stream/6.ts?token=msQEPu2ZZ7&v=20200518
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Lokal",ANTV
 http://kemana.pandawa.live/stream/7.ts?token=msQEPu2ZZ7&v=20200518
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Lokal",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1589917733~acl=/hls-p/ingest_204_*/*~hmac=ac5c18c1a1080d5368a1142ed41ef6e65a20d289c8a3ef08c578bcdef6462602/hls-p/ingest_204_720p/index.m3u8
+https://kemana.pandawa.live/stream/2.ts?token=msQEPu2ZZ7&v=20200518
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Lokal",Indosiar
 http://kemana.pandawa.live/stream/3.ts?token=msQEPu2ZZ7&v=20200518
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/RCTI_MNC-Group.png/800px-RCTI_MNC-Group.png" group-title="TV Lokal",RCTI
