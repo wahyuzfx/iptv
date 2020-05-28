@@ -1,5 +1,6 @@
 #EXTM3U 
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=1-mp4a_64000=2.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1
+https://etslive-2-vidio-com.akamaized.net/exp=1590658670~acl=/hls-p/ingest_778_*/*~hmac=93390ee0461442bceadcf8868d3621eaf941583fd07e5a706b66ad73d9b66459/hls-p/ingest_778_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1590658670~acl=/hls-p/ingest_778_*/*~hmac=93390ee0461442bceadcf8868d3621eaf941583fd07e5a706b66ad73d9b66459/hls-p/ingest_778_480p/1590644798357.ts
