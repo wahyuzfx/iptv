@@ -2,5 +2,8 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1
-https://linier3.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1.m3u8?auth_key=1590665416-0-0-60c7b473fb9854393112c7bc9c9ee1ff
+https://linier3.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1.m3u8?auth_key=1590665744-0-0-d8cf12fde0865281890d9d7b34acb6d5
+https://linier3.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_300000=5.m3u8?auth_key=1590665744-0-0-12f103bf1b1f60d551963c9a5a9e1ee3
+https://linier3.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3.m3u8?auth_key=1590665744-0-0-e57cf80f0957b9d470a215c9994bce00
+https://linier3.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_600000=4.m3u8?auth_key=1590665744-0-0-834808e70285b2bcb246ff4c0ab2920e
 
