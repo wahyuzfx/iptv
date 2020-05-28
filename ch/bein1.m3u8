@@ -1,8 +1,15 @@
 #EXTM3U 
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#EXT-X-TARGETDURATION:20
+#EXT-X-MEDIA-SEQUENCE:157922
 #EXT-X-STREAM-INF:PROGRAM-ID=1
 https://cdnbpp1.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+#EXTINF:10.0,
+https://cdnbpp1.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=media_w569980004_b684100_sleng_157922.ts
+#EXTINF:10.0,
+https://cdnbpp1.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=media_w569980004_b684100_sleng_157923.ts
+#EXTINF:10.0,
+https://cdnbpp1.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=media_w569980004_b684100_sleng_157924.ts
 
 https://edgejt6.useetv.com/joss/15/bein1/media_w569980004_b684100_sleng_312021.ts
 https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
