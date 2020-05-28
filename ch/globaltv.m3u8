@@ -2,7 +2,10 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1
-https://etslive-2-vidio-com.akamaized.net/exp=1590593936~acl=/hls-p/ingest_778_*/*~hmac=152aa587e16ce15e7f383918f588f11eb3a5e3cae3d679ac33a9b776b0b5b8ec/hls-p/ingest_778_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1590679787~acl=/hls-p/ingest_778_*/*~hmac=0880a3d8c7675c881efa26906cb4083cfde28e1028e9500fce2f6f7e9e433fd8/hls-p/ingest_778_240p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1590679787~acl=/hls-p/ingest_778_*/*~hmac=0880a3d8c7675c881efa26906cb4083cfde28e1028e9500fce2f6f7e9e433fd8/hls-p/ingest_778_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1590679787~acl=/hls-p/ingest_778_*/*~hmac=0880a3d8c7675c881efa26906cb4083cfde28e1028e9500fce2f6f7e9e433fd8/hls-p/ingest_778_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1590679787~acl=/hls-p/ingest_778_*/*~hmac=0880a3d8c7675c881efa26906cb4083cfde28e1028e9500fce2f6f7e9e433fd8/hls-p/ingest_778_360p/index.m3u8
 https://linier3.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1.m3u8?auth_key=1590665744-0-0-d8cf12fde0865281890d9d7b34acb6d5
 https://linier3.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_300000=5.m3u8?auth_key=1590665744-0-0-12f103bf1b1f60d551963c9a5a9e1ee3
 https://linier3.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3.m3u8?auth_key=1590665744-0-0-e57cf80f0957b9d470a215c9994bce00
