@@ -11,7 +11,7 @@ http://kemana.pandawa.live/stream/3.ts?token=msQEPu2ZZ7&v=20200518
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="TV Lokal",GTV
-https://raw.githubusercontent.com/burhansyam/iptv/master/ch/globaltv.m3u8
+https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV Lokal",MNCTV
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
