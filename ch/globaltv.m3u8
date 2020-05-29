@@ -2,6 +2,8 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1
+https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
+https://cdn-livetv1.metube.id/hls/globaltv_240/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1590767730~acl=/hls-p/ingest_778_*/*~hmac=18ab9327a9d691278e3d1597a24217ced151de5f228579515d197ce38bf90cd1/hls-p/ingest_778_480p/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1590767730~acl=/hls-p/ingest_778_*/*~hmac=18ab9327a9d691278e3d1597a24217ced151de5f228579515d197ce38bf90cd1/hls-p/ingest_778_240p/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1590767730~acl=/hls-p/ingest_778_*/*~hmac=18ab9327a9d691278e3d1597a24217ced151de5f228579515d197ce38bf90cd1/hls-p/ingest_778_720p/index.m3u8
