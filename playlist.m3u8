@@ -86,8 +86,10 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=AF12881090B35A1648
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=75DAA0C535858DB22080C1C86709CEF357176ED2&profile=pass
 #EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/natgeopeople.png" group-title="Khusus Indihome",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:516
 
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/760059668966158336/uyVkDCL3_400x400.jpg" group-title="Sports",MNC Sports
+https://cdn-livetv1.metube.id/hls/mncsport_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Sports",Bein Sports 1
 https://raw.githubusercontent.com/burhansyam/iptv/master/ch/bein1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports",Bein Sports 2
