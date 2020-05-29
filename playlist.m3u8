@@ -49,7 +49,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/daaitv.png" group-title="TV Lokal",Da Ai Indonesia
 https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582795985~exp=9007200837536976~acl=/a62c36fd75ff415da7a75c71a732034f/*/profile_2/chunklist.m3u8*~hmac=6a77ed118287f73c716a7d72859852d748125873f93f34069663c78f304a240c&hdnts=st=1582795973~exp=1582796093~acl=/*~id=dcf49637-e7f0-4773-95de-6d3e43308c72~data=36.77.80.127~hmac=8c8967ec6e256a2222bc6fc63a977ff44a2a9f61010e1c91af535d0f0de361ef
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="Indonesia1",TVRI Yogyakarta
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="TV Lokal",TVRI Yogyakarta
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
 
