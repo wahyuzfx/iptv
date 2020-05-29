@@ -131,7 +131,8 @@ http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="Sports",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="Sports",FightBox
+http://92.43.140.249/s86/04.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/useesports.png" group-title="Sports",Usee Sports
 http://mantul.biz.id:8888/live/omzul/xreqccXrty/241.m3u8
