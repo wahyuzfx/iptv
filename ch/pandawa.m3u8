@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/burhansyam/iptv/master/ch/rcti2.m3u8
 https://raw.githubusercontent.com/burhansyam/iptv/master/ch/globaltv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="FTA Lokal",MNCTV
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+https://raw.githubusercontent.com/burhansyam/iptv/master/ch/mnctv.m3u8
 
 #EXTINF:-1 tvg-ID="SCTV.id" group-title="FTA Lokal" tvg-logo="https://assets.cdn.pandawa.live/logo/sctv.png",SCTV
 http://kemana.pandawa.live/stream/2.ts?token=vJgKRG8eWe&v=20200530
