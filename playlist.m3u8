@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/burhansyam/iptv/master/ch/rcti2.m3u8
 https://raw.githubusercontent.com/burhansyam/iptv/master/ch/globaltv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV Lokal",MNCTV
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+https://raw.githubusercontent.com/burhansyam/iptv/master/ch/mnctv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/INews_TV_logo.svg/1280px-INews_TV_logo.svg.png" group-title="TV Lokal",iNews TV
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
