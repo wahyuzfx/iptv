@@ -3,7 +3,7 @@
 http://kemana.pandawa.live/stream/6.ts?token=vJgKRG8eWe&v=20200530
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/RCTI_MNC-Group.png/800px-RCTI_MNC-Group.png" group-title="FTA Lokal",RCTI
-https://raw.githubusercontent.com/burhansyam/iptv/master/ch/rcti2.m3u8
+https://raw.githubusercontent.com/burhansyam/iptv/master/ch/rcti.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="FTA Lokal",GTV
 https://raw.githubusercontent.com/burhansyam/iptv/master/ch/globaltv.m3u8
