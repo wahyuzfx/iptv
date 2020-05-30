@@ -1,5 +1,5 @@
 #EXTM3U 
 #EXT-X-VERSION:3
-
+#EXTVLCOPT:http-user-agent="negan.tv/9.6 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
+https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
