@@ -13,13 +13,13 @@ https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Lokal",Indosiar
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/RCTI_MNC-Group.png/800px-RCTI_MNC-Group.png" group-title="TV Lokal",RCTI
-https://raw.githubusercontent.com/burhansyam/iptv/master/ch/rcti2.m3u8
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="TV Lokal",GTV
-https://raw.githubusercontent.com/burhansyam/iptv/master/ch/globaltv.m3u8
+https://linier3.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3.m3u8?auth_key=1590915285-0-0-f832410d27e867f11142280d6cad0b34
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV Lokal",MNCTV
-https://raw.githubusercontent.com/burhansyam/iptv/master/ch/mnctv.m3u8
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/INews_TV_logo.svg/1280px-INews_TV_logo.svg.png" group-title="TV Lokal",iNews TV
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
@@ -108,9 +108,9 @@ https://cdn-livetv6.metube.id/hls/mncsport_480/index.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Sports",Bein Sports 1
-https://raw.githubusercontent.com/burhansyam/iptv/master/ch/bein1.m3u8
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(8681c389-950d-4828-b84b-06b651713f01)/manifest.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports",Bein Sports 2
-https://raw.githubusercontent.com/burhansyam/iptv/master/ch/bein2.m3u8
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(596a26ce-2f16-482e-bca6-1b78fad0b91a)/manifest.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/beinxtra.png" group-title="Sports",beIN Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/beinxtra.png" group-title="Sports",Fight Sports
@@ -155,7 +155,7 @@ http://mantul.biz.id:8888/live/omzul/xreqccXrty/37.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RwukrNaQxw9-zgWqjBhiIiFsUcQ=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" group-title="Movies",Citra Bioskop
 http://mantul.biz.id:8888/live/omzul/xreqccXrty/114.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/hbo.png" group-title="Movies",HBO
-http://mantul.biz.id:8888/live/omzul/xreqccXrty/252.m3u8
+http://tvku.live:8888/live/43sxs8twu/252886/4828.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/flik.png" group-title="Movies",FLIK
 https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/thrill.png" group-title="Movies",Thrill
