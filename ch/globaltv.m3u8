@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#EXT-X-KEY:URI="https://api.onesignal.com/players/5ce9bd87-0259-412b-b981-5d6e54c48acf/on_focus"
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 7.1.2; Tidak Bermerek MIUI/V9.6.5.0.NCKMIFDz)"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=1280x720
-https://cdn-livetv1.metube.id/hls/globaltv_480/152948.ts
-https://cdn-livetv5.metube.id/hls/globaltv_480/152948.ts
-https://cdn-livetv5.metube.id/hls/globaltv_480/index.m3u8
+https://anevia114.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
