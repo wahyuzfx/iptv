@@ -19,8 +19,7 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="TV Lokal",GTV
-https://linier3.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_300000=5.m3u8?auth_key=1590928354-0-0-b4d48603a9a168ac16a405b1700f4c69
-
+https://app-etslive-2.vidio.com/live/778/master.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjc3OCwicGxheWxpc3RfdXJsIjoiaHR0cHM6Ly9hcHAtZXRzbGl2ZS0yLnZpZGlvLmNvbS9saXZlLzc3OC9tYXN0ZXIubTN1OCJ9LCJleHAiOjE1OTA5MzAxOTQsImlzcyI6Ind3dy52aWRpby5jb20ifQ.X_QrzfhoRnTNRPJvJK7_KDhfHB1eWh5eZI5eJ8Igmd4n-CAjExtfT_H8RafZlE8ux3PdQ7QiYAoTVk67WIwx0BBmJcFXjetudlNvyoKaXHk9JwATxhKHk7qoIMIa-Xy77EsRkp12Ejfvivxb5ftjgNg3Db1RtZiol-XoDaMqRXbIcf66FCc4Ejiccu1k9bqi4jC8Y12M9Rabzbau_a1g3f9kWb4_I7YP36TaIk6rAowIQy8bmg0qnCId0AhUKv8wJ9oYOjg83zTMBNk8hWejHFuf1JFAwOx9qOkOwG5w8Xi9epLTR4RWNkHkq1ln9YTUGuU0knecfHfgwvyaI-rQvg&trace_id=1590929415807786059
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV Lokal",MNCTV
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
