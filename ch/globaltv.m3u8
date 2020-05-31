@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-KEY:URI="https://api.onesignal.com/players/5ce9bd87-0259-412b-b981-5d6e54c48acf/on_focus"
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 7.1.2; Tidak Bermerek MIUI/V9.6.5.0.NCKMIFDz)"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=1280x720
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.640029",BANDWIDTH=1000000,ID=avc1_1000000=7,RESOLUTION=1280x720,1000000
 https://anevia114.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
