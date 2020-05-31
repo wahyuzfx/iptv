@@ -108,9 +108,9 @@ https://cdn-livetv6.metube.id/hls/mncsport_480/index.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Sports",Bein Sports 1
-https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(8681c389-950d-4828-b84b-06b651713f01)/manifest.mpd
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(8681c389-950d-4828-b84b-06b651713f01)/manifest.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports",Bein Sports 2
-https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(596a26ce-2f16-482e-bca6-1b78fad0b91a)/manifest.mpd
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(596a26ce-2f16-482e-bca6-1b78fad0b91a)/manifest.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/beinxtra.png" group-title="Sports",beIN Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/beinxtra.png" group-title="Sports",Fight Sports
