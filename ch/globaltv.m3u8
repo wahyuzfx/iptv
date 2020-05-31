@@ -1,6 +1,16 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-KEY:URI="https://api.onesignal.com/players/5ce9bd87-0259-412b-b981-5d6e54c48acf/on_focus"
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 7.1.2; Tidak Bermerek MIUI/V9.6.5.0.NCKMIFDz)"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.640029",BANDWIDTH=1000000,ID=avc1_1000000=7,RESOLUTION=1280x720,1000000
-https://anevia114.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
+#EXT-X-MEDIA-SEQUENCE:153304
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.000,
+https://cdn-livetv1.metube.id/hls/globaltv_480/153304.ts
+#EXTINF:10.000,
+https://cdn-livetv1.metube.id/hls/globaltv_480/153305.ts
+#EXTINF:10.000,
+https://cdn-livetv1.metube.id/hls/globaltv_480/153306.ts
+#EXTINF:10.000,
+https://cdn-livetv1.metube.id/hls/globaltv_480/153307.ts
+#EXTINF:10.000,
+https://cdn-livetv1.metube.id/hls/globaltv_480/153308.ts
+#EXTINF:10.000,
+https://cdn-livetv1.metube.id/hls/globaltv_480/153309.ts
