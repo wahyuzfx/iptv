@@ -19,7 +19,7 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="TV Lokal",GTV
-https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
+https://linier3.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_300000=5.m3u8?auth_key=1590928354-0-0-b4d48603a9a168ac16a405b1700f4c69
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV Lokal",MNCTV
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
