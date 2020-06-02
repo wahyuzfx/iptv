@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/nettv.png" group-title="TV Lokal",NET TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076275~acl=/hls-p/ingest_875_*/*~hmac=8e41fd3dc006f462e2382ef5364d7026d82301c66d37a7cfb0e6205105bdd080/hls-p/ingest_875_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/kompastv.png" group-title="TV Lokal",Kompas TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076311~acl=/hls-p/ingest_874_*/*~hmac=336175f5254c511a61cc332e98bdaef3abeb96f9bb979862ddb216c598003ec5/hls-p/ingest_874_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/rtv.png" group-title="TV Lokal",RTV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076381~acl=/hls-p/ingest_geo_1561_*/*~hmac=f7f9d3365e59bced9cec55765ec5c52671580350ba500bebd181687e7196adc4/hls-p/ingest_geo_1561_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/beritasatutv.png" group-title="TV Lokal",Berita Satu SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076435~acl=/hls-p/ingest_6165_*/*~hmac=fb696a9680a3b40d5052ede5f4dc3078b8d948f42633d30cc56906e0a39e549f/hls-p/ingest_6165_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tvri.png" group-title="TV Lokal",TVRI SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076255~acl=/hls-b/ingest_6441_*/*~hmac=6e5f70f60492e9ef3a81b48829e682d41531658115e79b51c8eac83bbb4473c1/hls-b/ingest_6441_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/transtv.png" group-title="TV Lokal",TRANS TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076394~acl=/hls-b/ingest_733_*/*~hmac=91502591aafe9f9ea6072c9959acd3f5fefd9878c17bca38fbe74ef31926e249/hls-b/ingest_733_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/trans7.png" group-title="TV Lokal",TRANS 7 SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076354~acl=/hls-b/ingest_734_*/*~hmac=b9e461d6637dbc9dbda196e7079cb08245a82044986ba199bd469f8b90d403aa/hls-b/ingest_734_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/gtv.png" group-title="TV Lokal",GTV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076283~acl=/hls-p/ingest_778_*/*~hmac=f4e12c68a7e812aee31fd57f0497542312de9cbe1cb8c50c735dc5397df3678f/hls-p/ingest_778_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/rcti.png" group-title="TV Lokal",RCTI SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076256~acl=/hls-b/ingest_665_*/*~hmac=6b1426115d59a9f8a18df8571f1ffc1b0f9b4e5a33fe165128d6bcdebef084f0/hls-b/ingest_665_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/sctv.png" group-title="TV Lokal",SCTV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076429~acl=/hls-b/ingest_204_*/*~hmac=092c6a0e41ea433ead7b56b37733004b6318b73a44c283163284aed3aed053ba/hls-b/ingest_204_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/indosiar.png" group-title="TV Lokal",Indosiar SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076278~acl=/hls-b/ingest_205_*/*~hmac=87e02c148d470a9836b21af03118b9d213b952a6cc5e7c4876a7559cdb845362/hls-b/ingest_205_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/metrotv.png" group-title="TV Lokal",Metro TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076281~acl=/hls-p/ingest_777_*/*~hmac=b9d4e927774e02e2ad7fb84c71739aa1a62a41dded2fcab4fae8636df7a39188/hls-p/ingest_777_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/mnctv.png" group-title="TV Lokal",MNC TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076339~acl=/hls-p/ingest_870_*/*~hmac=2691c9a51320f5fc2d86fce7657c5109a92d712fd2c485bb13ee3cf655c62c48/hls-p/ingest_870_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/ochannel.png" group-title="TV Lokal",O Channel SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076462~acl=/hls-p/ingest_206_*/*~hmac=fb050d1e723683684544c7a8bb5bc0506657ded1f3e35f9bcd0e1dd06a0a37ba/hls-p/ingest_206_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/inewstv.png" group-title="TV Lokal",INEWS SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076188~acl=/hls-p/ingest_5409_*/*~hmac=8120ac0742bacbf6c9139bd86ced7304f30eed8e4ad81e3e349c7a574a4aab38/hls-p/ingest_5409_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/jaktv.png" group-title="TV Lokal",JAK TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076462~acl=/hls-p/ingest_5415_*/*~hmac=1abb730351ed24fb46f6c5f73bc5a39bd49d8ec475fea38ab1f12a553295b6dd/hls-p/ingest_5415_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/oshop.jpg" group-title="TV Lokal",O Shop SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076462~acl=/hls-p/ingest_6166_*/*~hmac=1be7c345115a84ef6308aeb2003a1c38940da66e8a366a60676837a7b754aaf5/hls-p/ingest_6166_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/daaitv.png" group-title="TV Lokal",DAAI TV SD
+https://etslive-2-vidio-com.akamaized.net/exp=1591076462~acl=/hls-p/ingest_6482_*/*~hmac=9512a62f7657eb91715f90f61a6ef9d00c3cfacad1aebbde5c51c429f7582bde/hls-p/ingest_6482_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/liga1.png" group-title="TV Lokal",Liga Indonesia 1 - Match 1
+#http://iptv.rizaldi.web.id/ambil/link/ini/semoga/rezekinya/pindah/ke/admin/dakocan/amin/shopee.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/liga1.png" group-title="TV Lokal",Liga Indonesia 1 - Match 2
+#http://iptv.rizaldi.web.id/ambil/link/ini/semoga/rezekinya/pindah/ke/admin/dakocan/amin/shopee2.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/liga1.png" group-title="TV Lokal",Liga Indonesia 1 - Match 3
+#http://iptv.rizaldi.web.id/ambil/link/ini/semoga/rezekinya/pindah/ke/admin/dakocan/amin/shopee3.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/liga1.png" group-title="TV Lokal",Liga Indonesia 2 - Match 1
+#http://iptv.rizaldi.web.id/ambil/link/ini/semoga/rezekinya/pindah/ke/admin/dakocan/amin/shopee4.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/liga1.png" group-title="TV Lokal",Liga Indonesia 2 - Match 2
+#http://iptv.rizaldi.web.id/ambil/link/ini/semoga/rezekinya/pindah/ke/admin/dakocan/amin/shopee5.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/liga1.png" group-title="TV Lokal",Liga Indonesia 1 (Backup)
+#http://vpssg.rizaldi.web.id:19410/live/ambilinkini/semogarezekinyapindahkeadmindakocan/20.ts
