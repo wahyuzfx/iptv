@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/nettv.png" group-title="TV Lokal",NET TV SD
 https://etslive-2-vidio-com.akamaized.net/exp=1591076275~acl=/hls-p/ingest_875_*/*~hmac=8e41fd3dc006f462e2382ef5364d7026d82301c66d37a7cfb0e6205105bdd080/hls-p/ingest_875_480p/index.m3u8
 
