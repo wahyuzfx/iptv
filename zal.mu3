@@ -221,7 +221,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 https://dl.dropboxusercontent.com/s/5k5psc1f1mj8u9w/bein1.m3u8?dl=0
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports",Bein Sports 2
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(596a26ce-2f16-482e-bca6-1b78fad0b91a)/manifest.mpd
+https://edgejt6.useetv.com:443/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
