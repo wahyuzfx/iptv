@@ -53,6 +53,14 @@ https://etslive-2-vidio-com.akamaized.net/exp=1591076462~acl=/hls-p/ingest_6166_
 #EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/daaitv.png" group-title="TV Lokal",DAAI TV SD
 https://etslive-2-vidio-com.akamaized.net/exp=1591076462~acl=/hls-p/ingest_6482_*/*~hmac=9512a62f7657eb91715f90f61a6ef9d00c3cfacad1aebbde5c51c429f7582bde/hls-p/ingest_6482_480p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/TVRIJogjaLogo2019.svg/250px-TVRIJogjaLogo2019.svg.png" group-title="TV Lokal",TVRI Yogyakarta
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV Lokal",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/liga1.png" group-title="TV Lokal",Liga Indonesia 1 - Match 1
 #http://iptv.rizaldi.web.id/ambil/link/ini/semoga/rezekinya/pindah/ke/admin/dakocan/amin/shopee.m3u8
 #EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/liga1.png" group-title="TV Lokal",Liga Indonesia 1 - Match 2
@@ -199,3 +207,57 @@ http://203.153.218.28:9981/stream/channelid/981299476?ticket=12C9097A699FE253487
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=EF9620DAF73176947D92EA2BD20C3AF456F02309&profile=pass
 #EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tctkids.png" group-title="Khusus Indonesia",BEIN 1
 https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/760059668966158336/uyVkDCL3_400x400.jpg" group-title="Sports",MNC Sports
+https://cdn-livetv6.metube.id/hls/mncsport_480/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.mint.web.id/images/channel/1562105434.png" group-title="Sports",TVRI Sports
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Sports",Bein Sports 1
+https://dl.dropboxusercontent.com/s/5k5psc1f1mj8u9w/bein1.m3u8?dl=0
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports",Bein Sports 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(596a26ce-2f16-482e-bca6-1b78fad0b91a)/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN Sports Xtra
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/beinxtra.png" group-title="Sports",Fight Sports
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/foxsport.png" group-title="Sports",FOX Sports
+http://fonteangelusiptv.com:25461/guilherme/guilherme/92742
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/foxsports2.png" group-title="Sports",FOX Sports 2
+http://fonteangelusiptv.com:25461/guilherme/guilherme/92745
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/foxsports3.png" group-title="Sports",FOX Sports 3
+http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/redbulltv.png" group-title="Sports",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/racing.png" group-title="Sports",Racing.Com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/molasp.png" group-title="Sports",Mola Sports
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="Sports",PPTV HD
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="Sports",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="Sports",FightBox
+http://92.43.140.249/s86/04.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/useesports.png" group-title="Sports",Usee Sports
+http://mantul.biz.id:8888/live/omzul/xreqccXrty/241.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/useesports2.png" group-title="Sports",Usee Sports 2
+http://mantul.biz.id:8888/live/omzul/xreqccXrty/234.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/champion1.png" group-title="Sports",Champion TV1
+https://dl.dropbox.com/s/1qvilgw0so22gbh/cham.m3u8?dl=0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/champion2.png" group-title="Sports",Champion TV2
+https://dl.dropbox.com/s/faieorutykcu29p/cham2.m3u8?dl=0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/elevensp1.png" group-title="Sports",Eleven Sports 1
+http://207.110.52.62:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/elevensp2.png" group-title="Sports",Eleven Sports 2
+http://207.110.52.62:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
