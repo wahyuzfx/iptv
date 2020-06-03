@@ -1,6 +1,12 @@
 #EXTM3U
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/transtv.png" group-title="TV Lokal",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/trans7.png" group-title="TV Lokal",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Lokal",NET
 http://free-jkt-1.pandawa.live/stream/id_nettv/mpeg.2ts?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjAgNDoyOTozNCBQTSZoYXNoX3ZhbHVlPTE2VXlQRFV5QjdkOWpicXJ1Ylh4VXc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPXZKZ0tSRzhlV2V8bmV0X3R2X2hkfDM2LjgxLjEzLjg2fFBhbmRhd2FMaXZlLzEuMC4xfGVuZHVzZXJ8Nnw=&token=6rYXOaTPsGLEkE8FHzT2E3uJPkTh9luNJm9iBHxA9vfE0X9fEgY1El59KwUiZiybKg8M2yK1Do9dGciw3pmwzqDdIqaCsBEkODtccmI6L8qYSLdd2f1BgghQINrzBCtsapTphDxwrOKidmKMX9UL84bCYpypKgU
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Lokal",ANTV
 http://45.126.83.51/session/3b544424-8cad-11ea-a602-b2e0b736ce20/qwr9ew/s/s07/01.m3u8
 
@@ -28,10 +34,6 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Lokal",Metro
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/transtv.png" group-title="TV Lokal",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/trans7.png" group-title="TV Lokal",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/kompastv.png" group-title="TV Lokal",Kompas TV
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
 
