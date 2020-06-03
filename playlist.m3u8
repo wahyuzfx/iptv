@@ -83,11 +83,11 @@ https://cdn-livetv6.metube.id/hls/mncsport_480/index.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/foxsport.png" group-title="Sports",FOX Sports
-http://fonteangelusiptv.com:25461/guilherme/guilherme/92742
+https://cdnjt25.useetv.com/joss/15/foxsport1/chunklist_w1585394624_b494100_sleng.m3u8?enc=SuXJOmUP0Qa32-jcX3Gu0A&exp=1588404612
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/foxsports2.png" group-title="Sports",FOX Sports 2
-http://fonteangelusiptv.com:25461/guilherme/guilherme/92745
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/foxsports3.png" group-title="Sports",FOX Sports 3
-http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+https://cdnjt25.useetv.com/joss/15/foxsport2/chunklist_w1960966777_b494100_sleng.m3u8?enc=ZTpaGxcIkXBrr9ZRis4iQg&exp=1588404612
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/redbulltv.png" group-title="Sports",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/racing.png" group-title="Sports",Racing.Com
@@ -203,9 +203,9 @@ http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
 http://103.27.206.124:28080/hls/live.stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/animax.png" group-title="Children",Animax
-http://45.126.83.51/dr9445/h/h144/01.m3u8
+https://dl.dropboxusercontent.com/s/egenrjti6f34mn4/animax.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/aniplus.png" group-title="Children",Aniplus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
+https://dl.dropboxusercontent.com/s/49qk07up0482d9d/aniplus.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/toonmax.png" group-title="Children",Toonmax
 http://45.126.83.51/qwr9ew/s/s50/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/larva.png" group-title="Children",Larva TV
@@ -217,7 +217,7 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/miaomi.png" group-title="Children",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/ducktv.png" group-title="Children",Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
+https://dl.dropboxusercontent.com/s/fpq6q13r49lptql/ducktv.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/boing.png" group-title="Children",Boing TV
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/horee.png" group-title="Children",Horee
