@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1045555601042956288/gclEjDLe_400x400.jpg" group-title="TV Lokal",Hi Indo
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Lokal",NET
 http://free-jkt-1.pandawa.live/stream/id_nettv/mpeg.2ts?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjAgNDoyOTozNCBQTSZoYXNoX3ZhbHVlPTE2VXlQRFV5QjdkOWpicXJ1Ylh4VXc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPXZKZ0tSRzhlV2V8bmV0X3R2X2hkfDM2LjgxLjEzLjg2fFBhbmRhd2FMaXZlLzEuMC4xfGVuZHVzZXJ8Nnw=&token=6rYXOaTPsGLEkE8FHzT2E3uJPkTh9luNJm9iBHxA9vfE0X9fEgY1El59KwUiZiybKg8M2yK1Do9dGciw3pmwzqDdIqaCsBEkODtccmI6L8qYSLdd2f1BgghQINrzBCtsapTphDxwrOKidmKMX9UL84bCYpypKgU
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Lokal",ANTV
