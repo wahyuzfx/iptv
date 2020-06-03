@@ -47,9 +47,6 @@ http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="TV Lokal",GTV Backup
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/jawapostv.png" group-title="TV Lokal",Jawapos TV
-https://livetvhooq.akamaized.net/22c46cbe1f2747d1b4766a75d8b06f19/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582796203~exp=9007200837537194~acl=/22c46cbe1f2747d1b4766a75d8b06f19/*/profile_2/chunklist.m3u8*~hmac=ba5ad8fe58195184e20bc0097c41944ac8c60bf812cbb2c5eaebbe9177f0956c&hdnts=st=1582796204~exp=1582796324~acl=/*~id=444764fc-ab71-402c-9c2f-94cf78fb764b~data=36.77.80.127~hmac=736ffc29671da79d6fb7c2e1b91ddb554417a4d19e825fa60859c96d46825004
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/beritasatutv.png" group-title="TV Lokal",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/daaitv.png" group-title="TV Lokal",Da Ai Indonesia
@@ -62,7 +59,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV Lokal",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/molasp.png" group-title="Sports",Mola Sports
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEylgbc56tnSg/company-logo_200_200/0?e=2159024400&v=beta&t=GubWNPaLaSybKqo7rwHy7U7xAgc_h0wy21yNjOR_W64" group-title="Sports",Mola Sports
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 
 
