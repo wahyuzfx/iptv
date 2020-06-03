@@ -56,7 +56,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV Lokal",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEylgbc56tnSg/company-logo_200_200/0?e=2159024400&v=beta&t=GubWNPaLaSybKqo7rwHy7U7xAgc_h0wy21yNjOR_W64" group-title="Sports",Mola Sports
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1130397670932008961/bFl07ZdC.png" group-title="Sports",Mola Sports
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 
 
@@ -153,9 +153,9 @@ http://203.153.218.28:9981/stream/channelid/1868154562?ticket=75DAA0C535858DB220
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/hbo.png" group-title="Movies",Dreamwork
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/73-732656_dreamworkstv-dreamworks-tv-png-logo-transparent-png.png" group-title="Movies",Dreamwork
 https://dl.dropboxusercontent.com/s/wevnnsgdaeeawed/dreamwork.m3u8?dl=0
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/flik.png" group-title="Movies",FLIK
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Extra-HD/images/ExtraHD-20rb_20.jpg" group-title="Movies",FLIK
 https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/517282529699586048/3N0-s8ar.png" group-title="Movies",Thrill
 https://dl.dropboxusercontent.com/s/ydnp1ayk11e8wkb/thrill.m3u8?dl=0
