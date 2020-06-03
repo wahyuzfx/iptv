@@ -1,4 +1,3 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:153304
-https://app-etslive-2.vidio.com/live/778/master.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1591217424~acl=/hls-b/ingest_778_*/*~hmac=ed20e5931fb3559a61cebe80c17881a0b0c52aa551388bb52a4c65aa31b1efa5/hls-p/ingest_778_720p/index.m3u8
