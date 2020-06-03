@@ -171,14 +171,14 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C87
 http://mantul.biz.id:8888/live/omzul/xreqccXrty/37.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RwukrNaQxw9-zgWqjBhiIiFsUcQ=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" group-title="Movies",Citra Bioskop
 http://mantul.biz.id:8888/live/omzul/xreqccXrty/114.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/hbo.png" group-title="Movies",HBO
-http://tvku.live:8888/live/43sxs8twu/252886/4828.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/hbo.png" group-title="Movies",Dreamwork
+https://dl.dropboxusercontent.com/s/wevnnsgdaeeawed/dreamwork.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/flik.png" group-title="Movies",FLIK
 https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/thrill.png" group-title="Movies",Thrill
 http://45.126.83.51/qwr9ew/s/s34/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/galaxy.png" group-title="Movies",Galaxy
-https://dl.dropbox.com/s/dolswngu7t4xd9e/galaxi.m3u8?dl=0
+https://dl.dropboxusercontent.com/s/osbm8jv8jgfvbvb/Galaxy.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/zbioskop.png" group-title="Movies",ZBioskop
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582800787~exp=9007200837541778~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=3373fc972a6042253eb502f2a58546528e7a4c781c77664892a7a60985d54e3c&hdnts=st=1582800786~exp=1582800906~acl=/*~id=2515e6bc-88e0-4d01-80b8-c4a4ab64ff06~data=36.77.80.127~hmac=0f41a0b2c9d384b7b76cca94395bf0ebe4cc2e277c41eaeb7dbef2279a6550a7
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/warnertv.png" group-title="Movies",Warner TV
@@ -194,7 +194,7 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/starmovies.png" group-title="Movies",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/citradrama.png" group-title="Movies",Citra Drama
-https://dl.dropbox.com/s/7fr4ogwy8pmpn2s/citra.m3u8?dl=0
+https://dl.dropboxusercontent.com/s/nqnfvo73cp49i1y/citradrama.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/cinemaworld.png" group-title="Movies",Cinema World
 http://45.126.83.51/uq2663/h/h04/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/celestial.png" group-title="Movies",Celestial Movies
