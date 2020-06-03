@@ -1,13 +1,14 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/transtv.png" group-title="TV Lokal",Trans TV
-https://streaming.useetv.com/joss/15/transtv/playlist.m3u8?enc=wJGdORY4A8TGEkUazT0-Aw&exp=1591211354&encp=dQIv-1pve7Mn1L7GyRyyMQ&expp=1591221854
+https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w809113791_b494100_sleng.m3u8?enc=Z5j7MpA9mKPhKpIpdy1vXQ&exp=1591222327
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/trans7.png" group-title="TV Lokal",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Lokal",NET
 https://vcdnjt.useetv.com/joss/15/net/chunklist_w1117208912_b684100_sleng.m3u8?enc=rh-DD7H7W8e6MVWo_2Ub2g&exp=1591223214
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Lokal",ANTV
-http://45.126.83.51/session/3b544424-8cad-11ea-a602-b2e0b736ce20/qwr9ew/s/s07/01.m3u8
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Lokal",SCTV
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
