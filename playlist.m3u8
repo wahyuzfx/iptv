@@ -36,6 +36,9 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/kompastv.png" group-title="TV Lokal",Kompas TV
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/mytv.png" group-title="TV Lokal",MYTV
+https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/tvri.jpg" group-title="TV Lokal",TVRI
 http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/rtv.png" group-title="TV Lokal",RTV
@@ -94,8 +97,8 @@ http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="Sports",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwAM7tsGvgCbbv30YAXs2-QDPNkU4TNiQuQ7zAgrtcCA94ZWjd" group-title="Sports",FightBox
-http://92.43.140.249/s86/04.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bc/FightBox_%282013%29.svg/revision/latest/scale-to-width-down/340?cb=20171210175839" group-title="Sports",FightBox
+https://dl.dropboxusercontent.com/s/r2tg76euq1faxxl/fightbox.m3u8?dl=0
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/indisport2/images/IndiSport2-20rb_03.jpg" group-title="Sports",Usee Sports
 https://dl.dropbox.com/s/eti9qt338a3vhdi/use.m3u8?dl=0
@@ -150,17 +153,13 @@ http://203.153.218.28:9981/stream/channelid/1868154562?ticket=75DAA0C535858DB220
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/fx.png" group-title="Movies",FX
-http://mantul.biz.id:8888/live/omzul/xreqccXrty/37.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RwukrNaQxw9-zgWqjBhiIiFsUcQ=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" group-title="Movies",Citra Bioskop
-http://mantul.biz.id:8888/live/omzul/xreqccXrty/114.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/hbo.png" group-title="Movies",Dreamwork
 https://dl.dropboxusercontent.com/s/wevnnsgdaeeawed/dreamwork.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/flik.png" group-title="Movies",FLIK
 https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/thrill.png" group-title="Movies",Thrill
-http://45.126.83.51/qwr9ew/s/s34/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/galaxy.png" group-title="Movies",Galaxy
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/517282529699586048/3N0-s8ar.png" group-title="Movies",Thrill
+https://dl.dropboxusercontent.com/s/ydnp1ayk11e8wkb/thrill.m3u8?dl=0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Galaxytvhdlogo.png" group-title="Movies",Galaxy
 https://dl.dropboxusercontent.com/s/osbm8jv8jgfvbvb/Galaxy.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/zbioskop.png" group-title="Movies",ZBioskop
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582800787~exp=9007200837541778~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=3373fc972a6042253eb502f2a58546528e7a4c781c77664892a7a60985d54e3c&hdnts=st=1582800786~exp=1582800906~acl=/*~id=2515e6bc-88e0-4d01-80b8-c4a4ab64ff06~data=36.77.80.127~hmac=0f41a0b2c9d384b7b76cca94395bf0ebe4cc2e277c41eaeb7dbef2279a6550a7
