@@ -151,7 +151,6 @@ http://203.153.218.28:9981/stream/channelid/1868154562?ticket=75DAA0C535858DB220
 #EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/natgeopeople.png" group-title="Khusus Indihome",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
 
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/73-732656_dreamworkstv-dreamworks-tv-png-logo-transparent-png.png" group-title="Movies",Dreamwork
 https://dl.dropboxusercontent.com/s/wevnnsgdaeeawed/dreamwork.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Extra-HD/images/ExtraHD-20rb_20.jpg" group-title="Movies",FLIK
@@ -160,9 +159,7 @@ https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.
 https://dl.dropboxusercontent.com/s/ydnp1ayk11e8wkb/thrill.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Galaxytvhdlogo.png" group-title="Movies",Galaxy
 https://dl.dropboxusercontent.com/s/osbm8jv8jgfvbvb/Galaxy.m3u8?dl=0
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/zbioskop.png" group-title="Movies",ZBioskop
-https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582800787~exp=9007200837541778~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=3373fc972a6042253eb502f2a58546528e7a4c781c77664892a7a60985d54e3c&hdnts=st=1582800786~exp=1582800906~acl=/*~id=2515e6bc-88e0-4d01-80b8-c4a4ab64ff06~data=36.77.80.127~hmac=0f41a0b2c9d384b7b76cca94395bf0ebe4cc2e277c41eaeb7dbef2279a6550a7
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/warnertv.png" group-title="Movies",Warner TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies",Warner TV
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/mycinema.png" group-title="Movies",My Cinema
 http://45.126.83.51/x6bnqe/s/s31/index2.m3u8
@@ -185,7 +182,7 @@ http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/fam.png" group-title="Movies",FOX Action Movies
 http://103.27.206.124:28080/hls/live.stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/animax.png" group-title="Children",Animax
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Children",Animax
 https://dl.dropboxusercontent.com/s/egenrjti6f34mn4/animax.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/aniplus.png" group-title="Children",Aniplus
 https://dl.dropboxusercontent.com/s/49qk07up0482d9d/aniplus.m3u8?dl=0
@@ -392,34 +389,30 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/australiach.png" group-title="News",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/makkahtv.png" group-title="Religious",Makkah TV
-http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/madinahtv.png" group-title="Religious",Madinah TV
-http://45.126.83.51:80/qwr9ew/s/s27/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/iqraatv.png" group-title="Religious",Iqraa TV
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/wesaltv.png" group-title="Religious",Wesal TV
-http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/ahsantv.png" group-title="Religious",Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/rodjatv.png" group-title="Religious",Rodja TV
-http://210.210.155.35/qwr9ew/s/s14/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/albahjahtv.png" group-title="Religious",Al-Bahjah TV
+#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",TV 9 Nusantara
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",TAHFIDZ TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",AL Bahjah
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/nabawitv.png" group-title="Religious",Nabawi TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/uchannel.png" group-title="Religious",U Channel
-http://210.210.155.35/qwr9ew/s/s41/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/dhammatv.png" group-title="Religious",Dhamma TV
-http://119.110.74.237:1935/live/dhammawebtv.stream/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/hiduptv.png" group-title="Religious",Hidup TV
-http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/iamch.png" group-title="Religious",I AM Channel
-http://iamchannel.org:1935/tes/1/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/reformed21.png" group-title="Religious",Reformed 21
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/ewtn.png" group-title="Religious",EWTN
-http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
+#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",,MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",MADINAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",AL IMAN
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",SALAM TV
+http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",RIFQAN TV
+http://119.82.232.89:1935/rifqan/live/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",PULDAPIL
+http://178.128.121.192/hlsmobile/web.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/istanafm.png" group-title="Radio",Istana FM Ternate
