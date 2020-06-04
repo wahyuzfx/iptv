@@ -225,8 +225,6 @@ https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sl
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png" group-title="Music",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://indonesiafms.com/wp-content/uploads/2016/03/prambors-fm-102.2-Jakarta.jpg" group-title="Music",Prambors
-https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E-jbg5dlGFQ/Xctyf4G342I/AAAAAAAAo24/M5IvvN0jGekYUsruQsSP22gIzcNRxV5GQCLcBGAsYHQ/s1600/lapak-musik-tv-channel-logo.png" group-title="Music",Lapak Musik
 http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/9xm.png" group-title="Music",9XM
@@ -244,7 +242,7 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-
 https://cdnkbl1.useetv.com/joss/15/afc/chunklist_w493374220_b1344100_sleng_enc=eOnEw5d4SoCziqmPto6COQ.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Lifestyle",FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="Lifestyle",Fashion TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_useephoto_small.png" group-title="Lifestyle",Usee Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
