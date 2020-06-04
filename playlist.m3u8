@@ -20,9 +20,10 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/RCTI_MNC-Group.png/800px-RCTI_MNC-Group.png" group-title="TV Lokal",RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="TV Lokal",GTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="TV Lokal",GLOBALTV
 https://etslive-2-vidio-com.akamaized.net/exp=1591254971~acl=/hls-b/ingest_778_*/*~hmac=ef80f401c88023c51dd136aed7774f489fa3e6720542bacd134666412f188f45/hls-b/ingest_778_720p/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV Lokal",MNCTV
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV Lokal",MNC
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/INews_TV_logo.svg/1280px-INews_TV_logo.svg.png" group-title="TV Lokal",iNews TV
