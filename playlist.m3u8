@@ -276,7 +276,7 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b10640
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg" group-title="Malaysia",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/astronaura.png" group-title="Malaysia",Astro Naura
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" group-title="Malaysia",Astro Naura
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Malaysia",RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
