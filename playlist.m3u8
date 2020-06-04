@@ -389,49 +389,50 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/australiach.png" group-title="News",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
 
-#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",TV 9 Nusantara
+
+#EXTINF:0  tvg-logo="https://tv9.co.id/images/foot-icon.png" group-title="TV RELIGI",TV 9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",INSAN TV
+#EXTINF:0  tvg-logo="https://4.bp.blogspot.com/-3vLl9FLuG7Y/WGdfkzywsqI/AAAAAAAAguI/SzWejpEfAEMjs9Z0wssljtAvxQIjsuvlQCLcB/s1600/insan-tv-channel-logo.png" group-title="TV RELIGI",INSAN TV
 http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",Ahsan TV
+#EXTINF:0  tvg-logo="https://ahsan.tv/wp-content/uploads/2019/12/AhsanTV-logo01.jpg" group-title="TV RELIGI",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",TAHFIDZ TV
+#EXTINF:0  tvg-logo="https://3.bp.blogspot.com/-kQGGDnfL8CY/Vafnd6qGqiI/AAAAAAAAFV8/3Ujm7qCd9ds/s200/Tahfidz%2BTV%2Bstreaming%2BOnline.png" group-title="TV RELIGI",TAHFIDZ TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",AL Bahjah
+#EXTINF:0  tvg-logo="https://buyayahya.org/wp-content/uploads/2018/01/AL-BAHJAH-TV-OK-3-1.png" group-title="TV RELIGI",AL Bahjah
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",,MAKKAH
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="TV RELIGI",MAKKAH
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",MADINAH
+#EXTINF:0  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/22ac9468582045.Y3JvcCwyMzAxLDE4MDAsMTQ4LDA.jpg" group-title="TV RELIGI",MADINAH
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",AL IMAN
+#EXTINF:0  tvg-logo="https://aditv.co.id/wp-content/uploads/2019/02/logo-aditv.png" group-title="TV RELIGI",AL IMAN
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",SALAM TV
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Salamtv.png" group-title="TV RELIGI",SALAM TV
 http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",RIFQAN TV
+#EXTINF:0 tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-rifqan-tv.png" group-title="TV RELIGI",RIFQAN TV
 http://119.82.232.89:1935/rifqan/live/playlist.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",PULDAPIL
+#EXTINF:0  tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-puldapii-tv.png" group-title="TV RELIGI",PULDAPIL
 http://178.128.121.192/hlsmobile/web.m3u8
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/istanafm.png" group-title="Radio",Istana FM Ternate
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/3223686762/b9029b5b6f4e10636bf0d829f2a6b157.png" group-title="Radio",Istana FM Ternate
 http://stream.suararadio.com:8000/ternate_istanafm_stereo
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/dmsfm.png" group-title="Radio",DMS FM Ambon
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/fc/05/23216/c175.png" group-title="Radio",DMS FM Ambon
 http://live2.indostreamserver.com:8130/stream
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/rockfm.png" group-title="Radio",Rock FM Jayapura
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/rock-jayapura.png" group-title="Radio",Rock FM Jayapura
 http://i.klikhost.com:9020/;
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/trendyfm.png" group-title="Radio",Trendy FM Manado
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/em5cllmnacas.jpg" group-title="Radio",Trendy FM Manado
 http://103.28.148.18:8018/;
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/telstarfm.png" group-title="Radio",Telstar FM Makassar
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s162386g.png" group-title="Radio",Telstar FM Makassar
 http://telstarfm.indostreamserver.com:8174/;
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/iradiofm.png" group-title="Radio",i Radio FM Jakarta
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-VblGeRd-yX8/V0xeBoHypPI/AAAAAAAAEEQ/-ehs3fmq1T8aZE6LpX7vIAYKLGtKkfAggCLcB/s1600/I_Radio_89.6_Jakarta.jpg" group-title="Radio",i Radio FM Jakarta
 http://cloudstreaming.mramedia.com:8000/live
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/ardanfm.png" group-title="Radio",Ardan FM Bandung
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24935q.png" group-title="Radio",Ardan FM Bandung
 http://listento.ardanradio.com:1059/;
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/geronimofm.png" group-title="Radio",Geronimo FM Jogja
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/chpcnjxyuchl.png" group-title="Radio",Geronimo FM Jogja
 http://live2.indostreamserver.com:8018/;
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/pramborsfm.png" group-title="Radio",Prambors FM Surabaya
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lalalafest.com/wp-content/uploads/2018/03/Prambors-Surabaya.png" group-title="Radio",Prambors FM Surabaya
 http://masima.rastream.com/masima-pramborssurabaya?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/nagaswarafm.png" group-title="Radio",Nagaswara FM Bogor
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.nagaswarafm.com/wp-content/uploads/2018/07/logo-nagaswara-fm-segiempat-.png" group-title="Radio",Nagaswara FM Bogor
 http://bogor.nagaswarafm.com:8088/stream
