@@ -21,7 +21,7 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Lokal",GLOBALTV
-https://etslive-2-vidio-com.akamaized.net/exp=1591357065~acl=/hls-b/ingest_778_*/*~hmac=cbdfce969c2c0809c99cd09cd81939e216e9060ff10cc57f6fcd8086161bc14c/hls-b/ingest_778_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1591341947~acl=/hls-b/ingest_778_*/*~hmac=fc59a5d6e27c5bc442fd672a031c7aa1ad05a45a6716900b3494dd54b856f424/hls-b/ingest_778_720p/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Lokal",MNC
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
@@ -188,8 +188,9 @@ https://cdnbpp1.useetv.com/joss/15/galaxy/chunklist_w349778864_b684100_sleng_168
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies",MY WARNER TV
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/df/My_Cinema_Logo.png" group-title="Movies",My Cinema
-http://45.126.83.51/x6bnqe/s/s31/index2.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cinemax.png" group-title="Movies",Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=471460A2F9702845F696A07FE208D021208CAE47&profile=pass
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="Movies",MNX Movies
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg" group-title="Movies",Movies Now
@@ -424,36 +425,3 @@ http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 http://119.82.232.89:1935/rifqan/live/playlist.m3u8
 #EXTINF:0  tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-puldapii-tv.png" group-title="TV RELIGI",PULDAPIL
 http://178.128.121.192/hlsmobile/web.m3u8
-
-#EXTINF:-1 group-title="VOD2020",The Call of the Wild (2020) 
-https://bitball.b-cdn.net/movies/03-03-2020/03-30-2020/The.Call.Of.The.Wild.2020.WEBRip.x264-ION10.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020",Emma (2020) 
-https://bitball.b-cdn.net/movies/03-03-2020/03-28-2020/Emma.2020.WEBRip.x264-SHITBOX.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020",Underwater (2020)
-https://bitball.b-cdn.net/movies/03-03-2020/03-28-2020/Underwater.2020.HDRip.720p.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020",Bad Boys for Life (2020)
-https://bitball.b-cdn.net/movies/03-03-2020/03-28-2020/Bad.Boys.for.Life.2020.HDRip.720p.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020",Onward (2020)
-https://bitball.b-cdn.net/movies/03-03-2020/03-25-2020/Onward.2020.720p.WEB-DL.DD5.1.H264-FGT.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020",Enter the Fat Dragon (2020)
-https://cdn.bitball.se//movies/02-12-2020/Enter.the.Fat.Dragon.2020.HD.480p.FMZM.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020",Detection of Di Renjie (2020)
-https://cdn.bitball.se//movies/02-12-2020/Detection.Of.Di.Renjie.2020.WEB-DL.480p.FMZM.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020", Dolittle (2020)
-https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/Dolittle.2020.WEB-DL.x264-FGT.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020",Bloodshot (2020)
-https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/Bloodshot.2020.720p.WEBDL.x264.GalaxyRG.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020", The Banker (2020)
-https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/The.Banker.2020.WEBRip.x264-ION10.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020", The Hunt (2020)
-https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/The.Hunt.2020.WEBRip.x264-ION10.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020", The Invisible Man (2020)
-https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/The.Invisible.Man.2020.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020",Surat dari Kematian (2020)
-https://bitball.b-cdn.net/movies/03-03-2020/03-23-2020/Surat.dari.Kematian.2020.WEB-DL.720p.FMZM.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020",The Man Standing Next (2020)
-https://bitball.b-cdn.net/movies/03-03-2020/03-22-2020/The.Man.Standing.Next.2020.720p.HDRip.H264.AAC-NonDRM.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD2020", Hitman: Agent Jun (2020)
-https://bitball.b-cdn.net/movies/03-03-2020/03-22-2020/Hitman.Agent.Jun.2020.1080p.FHDRip.H264.AAC-NonDRM.mp4
-
-
