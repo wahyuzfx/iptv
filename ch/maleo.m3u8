@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=552523,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=490x360
+https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/chunklist_w1029530870.m3u8
