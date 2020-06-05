@@ -124,6 +124,15 @@ https://dl.dropbox.com/s/1qvilgw0so22gbh/cham.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2.png" group-title="Sports",Champion TV2
 https://dl.dropbox.com/s/faieorutykcu29p/cham2.m3u8?dl=0
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f1/25/3c/f1253c7c16fee1f1ed923fc9789e1725.jpg" group-title="Sports",WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="Sports",NBA
+https://cdnbpp1.useetv.com/joss/15/nba/chunklist_w1353259665_b1344100_sleng_79873.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.useetv.com/logo_golfplus_big1.png?v=1.0.0.0" group-title="Sports",GOLF PLUS
+https://cdnbpp1.useetv.com/joss/15/golfplus/chunklist_w1719035610_b1344100_sleng_79871.m3u8
+
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180706/gvp/kisspng-animal-planet-logo-television-channel-television-s-planet-express-5b4010646d8f98.7476101915309251564488.jpg" group-title="Khusus Indihome",Animal Planet
 hhttps://tv4.chang55.com:446/live2/tv4ch37.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/afn.png" group-title="Khusus Indihome",Asian Food Channel
@@ -198,6 +207,10 @@ http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movies",FOX Action Movies
 http://103.27.206.124:28080/hls/live.stream.m3u8
+#EXTINF:-1  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Movies/BioskopIndonesia.png" group-title="Movies",Bioskop Indonesia
+https://vcdnjt.useetv.com/joss/14/zbioskop/chunklist_w1841713834_b684100_sleng_1364.m3u8
+#EXTINF:-1  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="Movies",CITRA DRAMA
+https://cdnbpp1.useetv.com/joss/14/cdrama/chunklist_w1896135155_b684100_sleng_7437.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Children",Animax
 https://dl.dropboxusercontent.com/s/egenrjti6f34mn4/animax.m3u8?dl=0
@@ -255,6 +268,8 @@ https://cdnbpp1.useetv.com/joss/14/tmusic/chunklist_w157192412_b684100_sleng_238
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png" group-title="Entertainment",Waku Waku Japan HD
 https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w1503209643_b894100_sleng_80932.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/DuniaLain.png" group-title="Entertainment",Dunia Lain
+https://cdnbpp1.useetv.com/joss/14/dunialain/chunklist_w1968690711_b684100_sleng_53857.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-WQlxdL6lzJc/WTmQYGWEIVI/AAAAAAAAHnQ/FtEKJJMJ-5IPoRN9_IekooSA2S0oHwULwCK4B/s1600/20170609004600-735840.jpg" group-title="Lifestyle",Hi!
