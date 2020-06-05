@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV Lokal",Trans TV
 https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w809113791_b1344100_sleng_177560.m3u8
 
@@ -28,31 +29,44 @@ https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Lokal",INEWS HD
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/tvone.png" group-title="TV Lokal",TV One
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="TV Lokal",TV One
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Lokal",Metro
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/kompastv.png" group-title="TV Lokal",Kompas TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/KompasTV.png" group-title="TV Lokal",Kompas TV
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/tvri.jpg" group-title="TV Lokal",TVRI
-http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/rtv.png" group-title="TV Lokal",RTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="TV Lokal",RTV
 http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Lokal",TVRI
+http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/AntaraTV.png" group-title="TV Lokal",ANTARA
+https://vcdnjt.useetv.com/joss/14/antara/chunklist_w1633911880_b684100_sleng_21937.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Lokal",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.pandawa.live/logo/daaitv.png" group-title="TV Lokal",Da Ai Indonesia
 https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582795985~exp=9007200837536976~acl=/a62c36fd75ff415da7a75c71a732034f/*/profile_2/chunklist.m3u8*~hmac=6a77ed118287f73c716a7d72859852d748125873f93f34069663c78f304a240c&hdnts=st=1582795973~exp=1582796093~acl=/*~id=dcf49637-e7f0-4773-95de-6d3e43308c72~data=36.77.80.127~hmac=8c8967ec6e256a2222bc6fc63a977ff44a2a9f61010e1c91af535d0f0de361ef
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/TVRIJogjaLogo2019.svg/250px-TVRIJogjaLogo2019.svg.png" group-title="TV Lokal",TVRI Yogyakarta
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Lokal",TVRI Yogyakarta
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV Lokal",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/JITV.png" group-title="TV Lokal",JITV
+https://vcdnjt.useetv.com/joss/14/jitv/chunklist_w1064998410_b684100_sleng_21937.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/MyTV.png" group-title="TV Lokal",MY TV
+https://vcdnjt.useetv.com/joss/14/mytv/chunklist_w167138745_b684100_sleng_177560.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/RRINET.png" group-title="TV Lokal",RRI NET
+https://edgejt6.useetv.com/joss/14/rrinet/chunklist_w730362791_b684100_sleng_177580.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1130397670932008961/bFl07ZdC.png" group-title="Sports",Mola Sports
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
@@ -234,7 +248,9 @@ http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/9XM_Logo.jpg" group-title="Music",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-LsywlE2RuPA/Xbefth6CdXI/AAAAAAAAowE/5CeKf_2WVSAA47YQ01yCvWEBLU9iONADgCLcBGAsYHQ/s1600/t-musik-tv-channel-logo.png" group-title="Music",T Musik
-https://cdnbpp1.useetv.com/joss/14/tmusic/chunklist_w157192412_b894100_sleng_80932.m3u8
+https://cdnbpp1.useetv.com/joss/14/tmusic/chunklist_w157192412_b684100_sleng_238815.m3u8
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="Entertainment",eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png" group-title="Entertainment",Waku Waku Japan HD
@@ -269,6 +285,8 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifiqu
 https://vcdnjt.useetv.com/joss/15/history/chunklist_w709750080_b894100_sleng_99926.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Knowledge",Discovery Channel
 https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8
+#EXTINF:0  tvg-logo="https://www.tivusat.tv/pages/_common/images/landing/loghi/canale_CGTN_docu.png" group-title="Knowledge",CGTN Documentary
+https://vcdnjt.useetv.com/joss/14/cgtndocumentary/chunklist_w1714383_b684100_sleng_99929.m3u8
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Knowledge",NAT GEO
 https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w1310751590_b1344100_sleng_520857.m3u8
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="Knowledge",NAT GEO WILD
