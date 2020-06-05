@@ -256,10 +256,9 @@ https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sl
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="Music",Maleo
-https://raw.githubusercontent.com/burhansyam/iptv/master/ch/maleo.m3u8
-
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="Music",POP Musik
-https://raw.githubusercontent.com/burhansyam/iptv/master/ch/popmusik.m3u8
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/citra-dangdut.png" group-title="Music",CITRA DANGDUT
 https://vcdnjt.useetv.com/joss/14/citradangdut/chunklist_w981377234_b684100_sleng_7391.m3u8
 
