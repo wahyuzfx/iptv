@@ -225,6 +225,8 @@ https://dl.dropbox.com/s/eyfch39sot2it92/carton.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2f/StoonPlus_logo.png" group-title="Children",Spacetoon Plus
 https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sleng_80925.m3u8
 
+#EXTINF:0  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/citra-dangdut.png" group-title="Music",CITRA DANGDUT
+https://vcdnjt.useetv.com/joss/14/citradangdut/chunklist_w981377234_b684100_sleng_7391.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png" group-title="Music",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
@@ -232,8 +234,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u
 http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/9XM_Logo.jpg" group-title="Music",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png" group-title="Music",T Musik
-https://cdnbpp1.useetv.com/joss/14/tmusic/chunklist_w157192412_b684100_sleng_238815.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-LsywlE2RuPA/Xbefth6CdXI/AAAAAAAAowE/5CeKf_2WVSAA47YQ01yCvWEBLU9iONADgCLcBGAsYHQ/s1600/t-musik-tv-channel-logo.png" group-title="Music",T Musik
+https://vcdnjt.useetv.com/joss/14/tmusic/chunklist_w157192412_b684100_sleng_238815.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="Entertainment",eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
