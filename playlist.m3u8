@@ -424,3 +424,36 @@ http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 http://119.82.232.89:1935/rifqan/live/playlist.m3u8
 #EXTINF:0  tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-puldapii-tv.png" group-title="TV RELIGI",PULDAPIL
 http://178.128.121.192/hlsmobile/web.m3u8
+
+#EXTINF:-1 group-title="VOD2020",The Call of the Wild (2020) 
+https://bitball.b-cdn.net/movies/03-03-2020/03-30-2020/The.Call.Of.The.Wild.2020.WEBRip.x264-ION10.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020",Emma (2020) 
+https://bitball.b-cdn.net/movies/03-03-2020/03-28-2020/Emma.2020.WEBRip.x264-SHITBOX.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020",Underwater (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-28-2020/Underwater.2020.HDRip.720p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020",Bad Boys for Life (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-28-2020/Bad.Boys.for.Life.2020.HDRip.720p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020",Onward (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-25-2020/Onward.2020.720p.WEB-DL.DD5.1.H264-FGT.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020",Enter the Fat Dragon (2020)
+https://cdn.bitball.se//movies/02-12-2020/Enter.the.Fat.Dragon.2020.HD.480p.FMZM.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020",Detection of Di Renjie (2020)
+https://cdn.bitball.se//movies/02-12-2020/Detection.Of.Di.Renjie.2020.WEB-DL.480p.FMZM.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020", Dolittle (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/Dolittle.2020.WEB-DL.x264-FGT.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020",Bloodshot (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/Bloodshot.2020.720p.WEBDL.x264.GalaxyRG.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020", The Banker (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/The.Banker.2020.WEBRip.x264-ION10.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020", The Hunt (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/The.Hunt.2020.WEBRip.x264-ION10.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020", The Invisible Man (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/The.Invisible.Man.2020.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020",Surat dari Kematian (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-23-2020/Surat.dari.Kematian.2020.WEB-DL.720p.FMZM.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020",The Man Standing Next (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-22-2020/The.Man.Standing.Next.2020.720p.HDRip.H264.AAC-NonDRM.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD2020", Hitman: Agent Jun (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-22-2020/Hitman.Agent.Jun.2020.1080p.FHDRip.H264.AAC-NonDRM.mp4
+
+
