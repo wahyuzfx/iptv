@@ -93,13 +93,13 @@ https://cdn-livetv6.metube.id/hls/mncsport_480/index.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="Sports",Fox Sports 1
-https://dl.dropboxusercontent.com/s/6o288yx7hgkp69s/foxsport1.m3u8?dl=0
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w825701812_b1344100_sleng_26373.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="Sports",Fox Sports 2
-https://dl.dropboxusercontent.com/s/eghcamc7et1dsw2/foxsport2.m3u8?dl=0
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w1139282438_b1344100_sleng_17373.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="Sports",Fox Sports 3
-https://dl.dropboxusercontent.com/s/76c5huxr6wjhnio/foxsport3.m3u8?dl=0
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w1427889370_b1344100_sleng_42637.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.logolynx.com/images/logolynx/d9/d949b7315021ca8b57498f4ee6381025.jpeg" group-title="Sports",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -137,7 +137,7 @@ https://cdnbpp1.useetv.com/joss/15/golfplus/chunklist_w1719035610_b1344100_sleng
 
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180706/gvp/kisspng-animal-planet-logo-television-channel-television-s-planet-express-5b4010646d8f98.7476101915309251564488.jpg" group-title="Khusus Indihome",Animal Planet
 hhttps://tv4.chang55.com:446/live2/tv4ch37.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/afn.png" group-title="Khusus Indihome",Asian Food Channel
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/afn.png" group-title="Khusus Indihome",AFC HD
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=55F1D428F8430B8043855EE1A817CAD070D7E395&profile=pass
 #EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/axn.png" group-title="Khusus Indihome",AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=32C1B76647871825FB1E27479155A683F3B33666&profile=pass
