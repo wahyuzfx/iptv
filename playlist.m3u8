@@ -21,8 +21,7 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Lokal",GLOBALTV
-https://etslive-2-vidio-com.akamaized.net/exp=1591633718~acl=/hls-p/ingest_778_*/*~hmac=d201f580e919bdb6b7fe21eb6b7f4790902ca9aa6f6b332ad8b0f6cab09cdc14/hls-p/ingest_778_720p/index.m3u8
-
+http://157.119.57.68:9999/tipi/global.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Lokal",MNC
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
