@@ -21,7 +21,7 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Lokal",GLOBALTV
-http://dev.bkad.xyz/tipi/global.m3u8
+https://ikasalon.com/tipilisi/global.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Lokal",MNC
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
