@@ -22,7 +22,7 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04
 http://iptv.burhansyam.com/rcti.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Lokal",GLOBALTV
-http://iptv.burhansyam.com/global/
+http://iptv.burhansyam.com/global.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Lokal",MNC
 http://iptv.burhansyam.com/mnctv.m3u8
