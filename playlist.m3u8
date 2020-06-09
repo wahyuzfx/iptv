@@ -28,7 +28,7 @@ http://iptv.burhansyam.com/global.m3u8
 http://iptv.burhansyam.com/mnctv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Lokal",INEWS HD
-https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
+http://iptv.burhansyam.com/inews.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="TV Lokal",TV One
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
