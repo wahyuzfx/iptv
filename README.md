@@ -1,5 +1,5 @@
 # IPTV FREE PLAYLIST
-Playlist STB kesayangan anda 
+Playlist STB Android kesayangan anda 
 
 # Gunakan Perfect Player Mod : 
 dapat didownload disini 
