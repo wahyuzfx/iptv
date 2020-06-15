@@ -41,6 +41,9 @@ https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w749991368_b894100_sleng_51
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="TV Lokal",Rajawali TV
 http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_big1.png" group-title="TV Lokal",JTV
+https://cdnbpp1.useetv.com/joss/14/jtv/chunklist_w149234900_b684100_sleng_122413.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="TV Lokal",O Channel
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 http://iptv.burhansyam.com/ochan/ochanel.m3u8
@@ -176,7 +179,7 @@ https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.
 https://vcdnjt.useetv.com/joss/14/thrill/chunklist_w2102222406_b684100_sleng_27378.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Galaxytvhdlogo.png" group-title="Movies",Galaxy
 https://cdnbpp1.useetv.com/joss/15/galaxy/chunklist_w349778864_b684100_sleng_168495.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies",MY WARNER TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies",Warner TV ID HD
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8
 #EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cinemax.png" group-title="Movies",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=471460A2F9702845F696A07FE208D021208CAE47&profile=pass
@@ -297,7 +300,7 @@ https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Knowledge",History
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Knowledge",History FHD
 https://vcdnjt.useetv.com/joss/15/history/chunklist_w709750080_b894100_sleng_99926.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Knowledge",Discovery Channel
 https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8
