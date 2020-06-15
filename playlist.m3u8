@@ -367,7 +367,12 @@ https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_e
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg" group-title="Korea",TVN Movies
 https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.burhansyam.com/static/me-4fcc7b94d21aee723fd984c717f85545.png" group-title="VOD Semi 2020" ,Bad Detective - Food Chain (2020)
+https://go.brhn.xyz/vV8ms9
+#EXTINF:-1 tvg-logo="https://www.burhansyam.com/static/me-4fcc7b94d21aee723fd984c717f85545.png" group-title="VOD Semi 2020" ,Daughters Diary (2020)
+https://go.brhn.xyz/bSi8KV
+#EXTINF:-1 tvg-logo="https://www.burhansyam.com/static/me-4fcc7b94d21aee723fd984c717f85545.png" group-title="VOD Semi 2020" ,My Sister in laws Secret (2020)
+https://go.brhn.xyz/3FbpDP
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="India",Zee Bioskop
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
