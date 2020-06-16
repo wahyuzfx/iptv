@@ -49,7 +49,6 @@ https://cdnbpp1.useetv.com/joss/14/jtv/chunklist_w149234900_b684100_sleng_122413
 http://iptv.burhansyam.com/ochan/ochanel.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_jaktv_big1.png" group-title="TV Lokal",Jak TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 http://iptv.burhansyam.com/jak/jaktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/MyTV.png" group-title="TV Lokal",MY TV
@@ -68,7 +67,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 http://iptv.burhansyam.com/daai/daai.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Lokal",TVRI Yogyakarta
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/200px-BaliTV_2014.png" group-title="TV Lokal",Bali TV
@@ -106,7 +104,6 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/760059668966158336/uyVkDCL3_400x400.jpg" group-title="Sports",MNC Sports
 https://cdn-livetv6.metube.id/hls/mncsport_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.mint.web.id/images/channel/1562105434.png" group-title="Sports",TVRI Sports
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="Sports",Fox Sports 1
 https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w825701812_b1344100_sleng_26373.m3u8
@@ -205,7 +202,9 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.dlpng.com/static/png/422751_preview.png" group-title="Movies",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-OwTTtRqsl-g/XYSjJWsMKpI/AAAAAAAAoik/ZAF_xHk4frovlEifMUxRi_V-Pj6bIFV-ACLcBGAsYHQ/s1600/citra-dramat-plus-channel-logo.png" group-title="Movies",Citra Drama
-https://dl.dropboxusercontent.com/s/nqnfvo73cp49i1y/citradrama.m3u8?dl=0
+https://vcdnjt.useetv.com/joss/14/cdrama/chunklist_w256121684_b684100_sleng_21929.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/09/IMC-logo-color-250x140.png" group-title="Movies",IMC
+https://vcdnjt.useetv.com/joss/14/imc/chunklist_w97180695_b684100_sleng_23950.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movies",Cinema World
 http://45.126.83.51/uq2663/h/h04/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies",Celestial Movies
