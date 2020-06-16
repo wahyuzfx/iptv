@@ -201,10 +201,8 @@ https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.dlpng.com/static/png/422751_preview.png" group-title="Movies",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-OwTTtRqsl-g/XYSjJWsMKpI/AAAAAAAAoik/ZAF_xHk4frovlEifMUxRi_V-Pj6bIFV-ACLcBGAsYHQ/s1600/citra-dramat-plus-channel-logo.png" group-title="Movies",Citra Drama
-https://vcdnjt.useetv.com/joss/14/cdrama/chunklist_w256121684_b684100_sleng_21929.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/09/IMC-logo-color-250x140.png" group-title="Movies",IMC
-https://vcdnjt.useetv.com/joss/14/imc/chunklist_w97180695_b684100_sleng_23950.m3u8
+https://vcdnjt.useetv.com/joss/14/imc/chunklist_w97180695_b684100_sleng_177560.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movies",Cinema World
 http://45.126.83.51/uq2663/h/h04/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies",Celestial Movies
@@ -213,11 +211,11 @@ http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movies",FOX Action Movies
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
-
 #EXTINF:-1  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Movies/BioskopIndonesia.png" group-title="Movies",Bioskop Indonesia
 https://vcdnjt.useetv.com/joss/14/zbioskop/chunklist_w1841713834_b684100_sleng_1364.m3u8
 #EXTINF:-1  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="Movies",CITRA DRAMA
-https://cdnbpp1.useetv.com/joss/14/cdrama/chunklist_w1896135155_b684100_sleng_7437.m3u8
+https://vcdnjt.useetv.com/joss/14/cdrama/chunklist_w1896135155_b684100_sleng_7437.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Children",Animax
 https://vcdnjt.useetv.com/joss/14/animax/chunklist_w1311799834_b684100_sleng_62816.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Children",Aniplus
