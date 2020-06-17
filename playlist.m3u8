@@ -70,7 +70,8 @@ http://iptv.burhansyam.com/daai/daai.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/200px-BaliTV_2014.png" group-title="TV Lokal",Bali TV
-https://anevia115.mncnow.id/live/eds/BaliTV/sa_hls_vmx/BaliTV-avc1_149952=9.m3u8
+https://edgejt6.useetv.com/joss/18/balitv/chunklist_w625693128_b684100_sleng_1592374261.m3u8
+
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV Lokal",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
@@ -216,9 +217,9 @@ https://edgejt6.useetv.com/joss/18/bioskopindonesia/chunklist_w1346003557_b68410
 https://vcdnjt.useetv.com/joss/14/cdrama/chunklist_w1896135155_b684100_sleng_7437.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Children",Animax
-https://vcdnjt.useetv.com/joss/14/animax/chunklist_w1311799834_b684100_sleng_62816.m3u8
+https://edgejt6.useetv.com/joss/18/animax/chunklist_w193028450_b684100_sleng_62816.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Children",Aniplus
-https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_w1099668752_b684100_sleng_46571.m3u8
+https://edgejt6.useetv.com/joss/18/aniplus/chunklist_w99804434_b684100_sleng_46571.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="Children",Toonmax
 http://45.126.83.51/qwr9ew/s/s50/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/53/f1/6b53f152-19f7-0f16-b013-3f68739b83ed/source/512x512bb.jpg" group-title="Children",Larva TV
@@ -248,16 +249,17 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.giniko.com/logos/190x110/358.png" group-title="Children",GEM Junior
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Children",Nickelodeon ID
-https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
+https://edgejt6.useetv.com/joss/18/nickelodeon/chunklist_w1557999000_b684100_sleng_80926.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Children",Nick Jr ID
-https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w5748593_b684100_sleng_80916.m3u8
+https://edgejt6.useetv.com/joss/18/nickjr/chunklist_w1891479373_b684100_sleng_80916.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Children",Cartoon Network
 https://vcdnjt.useetv.com/joss/14/cartoonnetwork/chunklist_w1073351013_b684100_sleng_54935.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2f/StoonPlus_logo.png" group-title="Children",Spacetoon Plus
 https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sleng_80925.m3u8
 
 
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="Music",MTV Live
+https://vcdnjt.useetv.com/joss/15/mtvlive/chunklist_w579680832_b1344100_sleng_80925.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="Music",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="Music",POP Musik
