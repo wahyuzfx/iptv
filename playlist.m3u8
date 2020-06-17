@@ -276,7 +276,7 @@ http://stream1.ninmedia.tv:1935/lapakmusiktv/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/9XM_Logo.jpg" group-title="Music",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-LsywlE2RuPA/Xbefth6CdXI/AAAAAAAAowE/5CeKf_2WVSAA47YQ01yCvWEBLU9iONADgCLcBGAsYHQ/s1600/t-musik-tv-channel-logo.png" group-title="Music",T Musik
-https://vcdnjt.useetv.com/joss/14/tmusic/chunklist_w157192412_b684100_sleng_238815.m3u8
+http://202.80.222.130/000001/2/ch16012910554271087643/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="Entertainment",MY eGG Network
