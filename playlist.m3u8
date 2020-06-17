@@ -45,10 +45,11 @@ http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/
 https://cdnbpp1.useetv.com/joss/14/jtv/chunklist_w149234900_b684100_sleng_122413.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="TV Lokal",O Channel
-http://dev.bkad.xyz/ochanel.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://iptv.burhansyam.com/ochan/ochanel.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_jaktv_big1.png" group-title="TV Lokal",Jak TV
-http://dev.bkad.xyz/jaktv.m3u8
+http://iptv.burhansyam.com/jak/jaktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/MyTV.png" group-title="TV Lokal",MY TV
 https://edgejt6.useetv.com/joss/18/mytv/chunklist_w1419180631_b684100_sleng_177560.m3u8
@@ -63,7 +64,7 @@ https://vcdnjt.useetv.com/joss/14/antara/chunklist_w1633911880_b684100_sleng_219
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sYTrkH4xaaNismc1qSEYPvnwQTU=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg" group-title="TV Lokal",DAAI TV
-http://dev.bkad.xyz/daai.m3u8
+http://iptv.burhansyam.com/daai/daai.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Lokal",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
@@ -84,7 +85,7 @@ https://edgejt6.useetv.com/joss/14/rrinet/chunklist_w730362791_b684100_sleng_177
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Lokal",GLOBAL TV SD
-http://dev.bkad.xyz/global.m3u8
+https://iptv.burhansyam.com/global.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Lokal",MNC SD
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
@@ -214,7 +215,7 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E
 https://edgejt6.useetv.com/joss/18/bioskopindonesia/chunklist_w1346003557_b684100_sleng_520881.m3u8
 #EXTINF:-1  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="Movies",CITRA DRAMA
 https://edgejt6.useetv.com/joss/18/cdrama/chunklist_w472709562_b684100_sleng_7437.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="Movies",Chinese Drama
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.pngg" group-title="Movies",Chinese Drama
 https://cdnjt22.useetv.com/joss/18/chinesedrama/chunklist_w702443545_b684100_sleng_7437.m3u8
 
 
@@ -237,7 +238,7 @@ https://edgejt6.useetv.com/joss/18/ducktv/chunklist_w981965478_b684100_sleng_213
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png" group-title="Children",Boing TV
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Children",Horee
-https://cdnbdsa1.useetv.com/joss/18/horee/chunklist_w581280968_b684100_sleng_7437.m3u8
+https://cdnjt22.useetv.com/joss/18/horee/chunklist_w1999028802_b684100_sleng_97615.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="Children",Dunia Anak
 https://edgejt6.useetv.com/joss/18/duniaanak/chunklist_w1796100887_b684100_sleng_54966.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Children",Boomerang
