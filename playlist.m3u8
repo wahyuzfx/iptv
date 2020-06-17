@@ -215,6 +215,9 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E
 https://edgejt6.useetv.com/joss/18/bioskopindonesia/chunklist_w1346003557_b684100_sleng_520881.m3u8
 #EXTINF:-1  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="Movies",CITRA DRAMA
 https://edgejt6.useetv.com/joss/18/cdrama/chunklist_w472709562_b684100_sleng_7437.m3u8
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.pngg" group-title="Movies",Chinese Drama
+https://cdnjt22.useetv.com/joss/18/chinesedrama/chunklist_w702443545_b684100_sleng_7437.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Children",Animax
 https://edgejt6.useetv.com/joss/18/animax/chunklist_w193028450_b684100_sleng_62816.m3u8
@@ -227,15 +230,15 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mpng.subpng.com/20180614/gbo/kisspng-tom-cat-jerry-mouse-tom-and-jerry-tom-jerry-5b21e914857346.7487803615289490125466.jpg" group-title="Children",Tom Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Children",Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+https://edgejt6.useetv.com/joss/18/babyfirst/chunklist_w107875624_b684100_sleng_62816.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png" group-title="Children",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="Children",Duck TV
-https://vcdnjt.useetv.com/joss/14/ducktv/chunklist_w1660067236_b684100_sleng_21378.m3u8
+https://edgejt6.useetv.com/joss/18/ducktv/chunklist_w981965478_b684100_sleng_21378.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png" group-title="Children",Boing TV
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Children",Horee
-https://vcdnjt.useetv.com/joss/14/horee/chunklist_w1146919815_b684100_sleng_97615.m3u8
+https://cdnjt22.useetv.com/joss/18/horee/chunklist_w1999028802_b684100_sleng_97615.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="Children",Dunia Anak
 https://edgejt6.useetv.com/joss/18/duniaanak/chunklist_w1796100887_b684100_sleng_54966.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Children",Boomerang
@@ -289,6 +292,8 @@ http://live.highstream.club/live/AMC/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Lifestyle",Insert
 https://vcdnjt.useetv.com/joss/18/insert/chunklist_w1607416251_b684100_sleng_122439.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png" group-title="Lifestyle",Eat&Go
+https://cdnjt22.useetv.com/joss/18/eatgo/chunklist_w1067013062_b684100_sleng_122450.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-WQlxdL6lzJc/WTmQYGWEIVI/AAAAAAAAHnQ/FtEKJJMJ-5IPoRN9_IekooSA2S0oHwULwCK4B/s1600/20170609004600-735840.jpg" group-title="Lifestyle",Hi!
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Lifestyle",AFN
@@ -298,13 +303,13 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b130
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV
 https://edgejt6.useetv.com/joss/15/fashiontv/chunklist_w200087886_b1344100_sleng_80932.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_useephoto_small.png" group-title="Lifestyle",Usee Photo
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
+https://edgejt6.useetv.com/joss/15/useephoto/chunklist_w2143965842_b1344100_sleng_122439.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Lifestyle",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/HOME-LIVING.jpg" group-title="Lifestyle",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png" group-title="Lifestyle",Ruang Terampil
-https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566805~exp=9007200824307796~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=5f8d7450569ad9000d00b8db64aebce94cf8c2278ae534a3332bed7ecf7c826a
+https://cdnjt22.useetv.com/joss/15/useeinfo/chunklist_w670785345_b1344100_sleng_122439.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="Lifestyle",TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617-b/tv5asieen/tv5asie_eng_1200.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="Lifestyle",TV5 Monde Style
