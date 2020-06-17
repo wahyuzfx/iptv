@@ -52,7 +52,7 @@ http://iptv.burhansyam.com/ochan/ochanel.m3u8
 http://iptv.burhansyam.com/jak/jaktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/MyTV.png" group-title="TV Lokal",MY TV
-https://vcdnjt.useetv.com/joss/14/mytv/chunklist_w167138745_b684100_sleng_177560.m3u8
+https://edgejt6.useetv.com/joss/18/mytv/chunklist_w1419180631_b684100_sleng_177560.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Lokal",TVRI
 http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -76,7 +76,7 @@ https://edgejt6.useetv.com/joss/18/balitv/chunklist_w625693128_b684100_sleng_159
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/JITV.png" group-title="TV Lokal",JITV
-https://vcdnjt.useetv.com/joss/14/jitv/chunklist_w1064998410_b684100_sleng_21937.m3u8
+https://vcdnjt.useetv.com/joss/18/jitv/chunklist_w2003753435_b684100_sleng_21937.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/RRINET.png" group-title="TV Lokal",RRI NET
 https://edgejt6.useetv.com/joss/14/rrinet/chunklist_w730362791_b684100_sleng_177580.m3u8
@@ -214,7 +214,7 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E
 #EXTINF:-1  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Movies/BioskopIndonesia.png" group-title="Movies",Bioskop Indonesia
 https://edgejt6.useetv.com/joss/18/bioskopindonesia/chunklist_w1346003557_b684100_sleng_520881.m3u8
 #EXTINF:-1  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="Movies",CITRA DRAMA
-https://vcdnjt.useetv.com/joss/14/cdrama/chunklist_w1896135155_b684100_sleng_7437.m3u8
+https://edgejt6.useetv.com/joss/18/cdrama/chunklist_w472709562_b684100_sleng_7437.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Children",Animax
 https://edgejt6.useetv.com/joss/18/animax/chunklist_w193028450_b684100_sleng_62816.m3u8
@@ -237,9 +237,9 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Children",Horee
 https://vcdnjt.useetv.com/joss/14/horee/chunklist_w1146919815_b684100_sleng_97615.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="Children",Dunia Anak
-https://vcdnjt.useetv.com/joss/14/duniaanak/chunklist_w873899480_b684100_sleng_54966.m3u8
+https://edgejt6.useetv.com/joss/18/duniaanak/chunklist_w1796100887_b684100_sleng_54966.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Children",Boomerang
-https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1392885613_b684100_sleng_54965.m3u8
+https://edgejt6.useetv.com/joss/18/boomerang/chunklist_w786598174_b684100_sleng_54965.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/320px-Spacetoon.png" group-title="Children",Spacetoon
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/41/f9/ef/41f9efdd5c0714b36bb78d7c2cc57e00.jpg" group-title="Children",3ABN Kids
@@ -253,7 +253,7 @@ https://edgejt6.useetv.com/joss/18/nickelodeon/chunklist_w1557999000_b684100_sle
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Children",Nick Jr ID
 https://edgejt6.useetv.com/joss/18/nickjr/chunklist_w1891479373_b684100_sleng_80916.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Children",Cartoon Network
-https://vcdnjt.useetv.com/joss/14/cartoonnetwork/chunklist_w1073351013_b684100_sleng_54935.m3u8
+https://edgejt6.useetv.com/joss/18/cartoonnetwork/chunklist_w1161141532_b684100_sleng_54935.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2f/StoonPlus_logo.png" group-title="Children",Spacetoon Plus
 https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sleng_80925.m3u8
 
@@ -288,7 +288,7 @@ http://live.highstream.club/live/AMC/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Lifestyle",Insert
-https://cdnbpp1.useetv.com/joss/14/insert/chunklist_w1857284949_b684100_sleng_122439.m3u8
+https://vcdnjt.useetv.com/joss/18/insert/chunklist_w1607416251_b684100_sleng_122439.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-WQlxdL6lzJc/WTmQYGWEIVI/AAAAAAAAHnQ/FtEKJJMJ-5IPoRN9_IekooSA2S0oHwULwCK4B/s1600/20170609004600-735840.jpg" group-title="Lifestyle",Hi!
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Lifestyle",AFN
@@ -296,7 +296,7 @@ https://cdnkbl1.useetv.com/joss/15/afc/chunklist_w493374220_b1344100_sleng_enc=e
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Lifestyle",FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+https://edgejt6.useetv.com/joss/15/fashiontv/chunklist_w200087886_b1344100_sleng_80932.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_useephoto_small.png" group-title="Lifestyle",Usee Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Lifestyle",Food Network
