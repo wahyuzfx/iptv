@@ -418,7 +418,7 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master6
 
 
 #EXTINF:0  tvg-logo="https://tv9.co.id/images/foot-icon.png" group-title="TV RELIGI",TV 9 Nusantara
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+https://cdnkbl2.useetv.com/joss/18/tv9/chunklist_w1759342743_b684100_sleng_177560.m3u8
 #EXTINF:0  tvg-logo="https://4.bp.blogspot.com/-3vLl9FLuG7Y/WGdfkzywsqI/AAAAAAAAguI/SzWejpEfAEMjs9Z0wssljtAvxQIjsuvlQCLcB/s1600/insan-tv-channel-logo.png" group-title="TV RELIGI",INSAN TV
 http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 #EXTINF:0  tvg-logo="https://ahsan.tv/wp-content/uploads/2019/12/AhsanTV-logo01.jpg" group-title="TV RELIGI",Ahsan TV
@@ -441,5 +441,3 @@ http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 http://119.82.232.89:1935/rifqan/live/playlist.m3u8
 #EXTINF:0  tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-puldapii-tv.png" group-title="TV RELIGI",PULDAPIL
 http://178.128.121.192/hlsmobile/web.m3u8
-#EXTINF:0  tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-puldapii-tv.png" group-title="TV RELIGI",Test Chanel
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
