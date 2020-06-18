@@ -56,7 +56,7 @@ https://edgejt6.useetv.com/joss/18/mytv/chunklist_w1419180631_b684100_sleng_1775
 http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/AntaraTV.png" group-title="TV Lokal",ANTARA
-https://vcdnjt.useetv.com/joss/18/antara/chunklist_w1956326790_b684100_sleng_177560.m3u8
+https://edgejt6.useetv.com/joss/18/antara/chunklist_w91860980_b684100_sleng_177560.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Lokal",Berita Satu News
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -74,7 +74,7 @@ https://edgejt6.useetv.com/joss/18/balitv/chunklist_w625693128_b684100_sleng_159
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/JITV.png" group-title="TV Lokal",JITV
-https://vcdnjt.useetv.com/joss/18/jitv/chunklist_w2003753435_b684100_sleng_21937.m3u8
+https://edgejt6.useetv.com/joss/18/jitv/chunklist_w1274110546_b684100_sleng_21937.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/RRINET.png" group-title="TV Lokal",RRI NET
 https://cdnbpp1.useetv.com/joss/18/rrinet/chunklist_w326116767_b684100_sleng_177580.m3u8
@@ -286,7 +286,7 @@ http://live.highstream.club/live/AMC/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Lifestyle",Insert
-https://vcdnjt.useetv.com/joss/18/insert/chunklist_w1607416251_b684100_sleng_122439.m3u8
+https://edgejt6.useetv.com/joss/18/antara/chunklist_w91860980_b684100_sleng_122439.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png" group-title="Lifestyle",Eat&Go
 https://cdnjt22.useetv.com/joss/18/eatgo/chunklist_w1067013062_b684100_sleng_122450.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-WQlxdL6lzJc/WTmQYGWEIVI/AAAAAAAAHnQ/FtEKJJMJ-5IPoRN9_IekooSA2S0oHwULwCK4B/s1600/20170609004600-735840.jpg" group-title="Lifestyle",Hi!
