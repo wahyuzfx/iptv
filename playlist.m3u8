@@ -265,8 +265,7 @@ http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="Music",POP Musik
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/citra-dangdut.png" group-title="Music",CITRA DANGDUT
-https://vcdnjt.useetv.com/joss/14/citradangdut/chunklist_w981377234_b684100_sleng_7391.m3u8
-
+https://cdnjt14.useetv.com/joss/18/citradangdut/chunklist_w226584801_b684100_sleng_177560.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png" group-title="Music",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E-jbg5dlGFQ/Xctyf4G342I/AAAAAAAAo24/M5IvvN0jGekYUsruQsSP22gIzcNRxV5GQCLcBGAsYHQ/s1600/lapak-musik-tv-channel-logo.png" group-title="Music",Lapak Musik
