@@ -45,7 +45,6 @@ http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/
 https://cdnbpp1.useetv.com/joss/14/jtv/chunklist_w149234900_b684100_sleng_122413.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="TV Lokal",O Channel
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 http://iptv.burhansyam.com/ochan/ochanel.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_jaktv_big1.png" group-title="TV Lokal",Jak TV
@@ -58,7 +57,7 @@ https://edgejt6.useetv.com/joss/18/mytv/chunklist_w1419180631_b684100_sleng_1775
 http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/AntaraTV.png" group-title="TV Lokal",ANTARA
-https://vcdnjt.useetv.com/joss/18/antara/chunklist_w1956326790_b684100_sleng_246820.m3u8
+https://vcdnjt.useetv.com/joss/18/antara/chunklist_w1956326790_b684100_sleng_177560.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Lokal",Berita Satu News
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
