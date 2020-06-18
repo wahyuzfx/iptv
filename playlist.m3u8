@@ -439,4 +439,4 @@ http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 #EXTINF:0 tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-rifqan-tv.png" group-title="TV RELIGI",RIFQAN TV
 http://119.82.232.89:1935/rifqan/live/playlist.m3u8
 #EXTINF:0  tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-puldapii-tv.png" group-title="TV RELIGI",PULDAPIL
-https://cdn-livetv1.metube.id/hls/globaltv.m3u8
+http://178.128.121.192/hlsmobile/web.m3u8
