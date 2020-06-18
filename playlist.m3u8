@@ -441,3 +441,5 @@ http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 http://119.82.232.89:1935/rifqan/live/playlist.m3u8
 #EXTINF:0  tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-puldapii-tv.png" group-title="TV RELIGI",PULDAPIL
 http://178.128.121.192/hlsmobile/web.m3u8
+#EXTINF:0  tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-puldapii-tv.png" group-title="TV RELIGI",Test Chanel
+http://202.80.222.130/000001/2/ch18040213194357388223/index.m3u8?virtualDomain=000001.live_hls.zte.com
