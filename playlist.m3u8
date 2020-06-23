@@ -180,6 +180,8 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C87
 
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Movies",HBO HD
 https://iptv.burhansyam.com/hbo/index.php
+#EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Movies",HBO SD
+https://iptv.burhansyam.com/hbo.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/73-732656_dreamworkstv-dreamworks-tv-png-logo-transparent-png.png" group-title="Movies",Dreamwork
 https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1016025798_b894100_sleng_21729.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Extra-HD/images/ExtraHD-20rb_20.jpg" group-title="Movies",FLIK
