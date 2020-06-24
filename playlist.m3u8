@@ -139,7 +139,7 @@ https://cdnbpp1.useetv.com/joss/15/golfplus/chunklist_w1719035610_b1344100_sleng
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
 https://iptv.burhansyam.com/hbotest/hbo.m3u8
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO FHD
-https://iptv.burhansyam.com/hbo/index.php
+http://dev.bkad.xyz:9999/kochenk/hbo.php
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO SD
 https://iptv.burhansyam.com/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits
@@ -341,19 +341,19 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master6
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" group-title="Macan IPTV",Love Nature
-http://iptv.burhansyam.com/kochenk/lovenature.php
+http://dev.bkad.xyz:9999/kochenk/lovenature.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logogrey/grey_logo_ikonser_big.png" group-title="Macan IPTV",I Konser
-http://iptv.burhansyam.com/kochenk/ekonser.php
+http://dev.bkad.xyz:9999/kochenk/ekonser.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="Macan IPTV",Fox Family Movies Eng
-http://iptv.burhansyam.com/kochenk/ffm.php
+http://dev.bkad.xyz:9999/kochenk/ffm.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="Macan IPTV",Fox Family Movies Ind
-http://iptv.burhansyam.com/kochenk/ffmid.php
+http://dev.bkad.xyz:9999/kochenk/ffmid.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2017/06/12/3de46a6f-f2ce-46cf-a7c5-f53f71fcbe95_43.jpeg" group-title="Macan IPTV",Fox Movies Premium
-http://iptv.burhansyam.com/kochenk/fmp.php
+http://dev.bkad.xyz:9999/kochenk/fmp.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Macan IPTV",tvN
-http://iptv.burhansyam.com/kochenk/tvn.php
+http://dev.bkad.xyz:9999/kochenk/tvn.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="Macan IPTV",tvN Movies
-http://iptv.burhansyam.com/kochenk/tvnm.php
+http://dev.bkad.xyz:9999/kochenk/tvnm.php
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/d/d7/TV_1%28Malaysia%29baru.png/250px-TV_1%28Malaysia%29baru.png" group-title="Malaysia",TV1
 http://58.26.3.54/PLTV/88888888/224/3221226228/02.m3u8
