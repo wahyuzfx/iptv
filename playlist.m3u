@@ -52,8 +52,8 @@ https://cdnjt25.useetv.com/joss/18/balitv/chunklist_w2042277197_b684100_sleng_15
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV Nasional",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/JITV.png" group-title="TV Nasional",JITV
-https://cdnjt25.useetv.com/joss/18/jitv/chunklist_w2069967617_b684100_sleng_21937.m3u8
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/RRINET.png" group-title="TV Nasional",RRI NET
+https://cdnjt25.useetv.com/joss/18/jitv/chunklist_w2069967617_b684100_sleng_21937.m3u8
 https://cdnjt25.useetv.com/joss/18/rrinet/chunklist_w2095499515_b684100_sleng_177580.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI SD
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
@@ -108,7 +108,10 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="Olahraga",NBA
 https://cdnjt25.useetv.com/joss/15/nba/chunklist_w1423504559_b1344100_sleng_79873.m3u8
 #EXTINF:-1  tvg-logo="https://images.useetv.com/logo_golfplus_big1.png" group-title="Olahraga",GOLF PLUS
-https://cdnbpp1.useetv.com/joss/15/golfplus/chunklist_w1719035610_b1344100_sleng_79871.m3u8
+https://cdnjt25.useetv.com/joss/15/golfplus/chunklist_w1719035610_b1344100_sleng_79871.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Olahraga",UseePrime
+https://cdnjt25.useetv.com/joss/15/useeprime/chunklist_w762636917_b894100_sleng_34881.m3u8
+
 
 
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
@@ -321,7 +324,7 @@ http://210.210.155.35/qwr9ew/s/s23/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1045.1565613151.png" group-title="Berita dan Informasi",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.abc.net.au/core/assets/abchome.png" group-title="Berita dan Informasi",ABC Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+https://cdnjt25.useetv.com/joss/15/abcaustralia/chunklist_w2075359041_b894100_sleng_122439.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png" group-title="Berita dan Informasi",Aljazeera English
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6554.1489225299.png" group-title="Berita dan Informasi",Fox Sports News
@@ -417,3 +420,5 @@ http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 http://119.82.232.89:1935/rifqan/live/playlist.m3u8
 #EXTINF:0  tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-puldapii-tv.png" group-title="TV RELIGI",PULDAPIL
 http://178.128.121.192/hlsmobile/web.m3u8
+#EXTINF:0  tvg-logo="https://www.santo-laurensius.org/wp-content/uploads/2018/12/hidup-tv.png" group-title="TV RELIGI",Hidup TV
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
