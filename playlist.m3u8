@@ -120,7 +120,7 @@ https://iptv.burhansyam.com/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits
 https://iptv.burhansyam.com/hbotest/hits.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="Film",HBO Family
-https://iptv.burhansyam.com/hbotest/hits.m3u8
+https://iptv.burhansyam.com/hbotest/fam.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="Film",HBO Signature
 https://iptv.burhansyam.com/hbotest/sig.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="Film",Red by HBO
