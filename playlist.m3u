@@ -216,7 +216,7 @@ https://vcdnjt.useetv.com/joss/15/history/chunklist_w709750080_b894100_sleng_999
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Pengetahuan",Discovery Channel
 https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8
 #EXTINF:0  tvg-logo="https://www.tivusat.tv/pages/_common/images/landing/loghi/canale_CGTN_docu.png" group-title="Pengetahuan",CGTN Documentary
-https://vcdnjt.useetv.com/joss/14/cgtndocumentary/chunklist_w1714383_b684100_sleng_99929.m3u8
+https://cdnjt22.useetv.com/joss/18/cgtndocumentary/chunklist_w1785469660_b684100_sleng_99929.m3u8
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Pengetahuan",National Geographic Channel HD
 https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w1310751590_b1344100_sleng_520857.m3u8
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="Pengetahuan",National Geographic Wild HD
@@ -249,7 +249,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png" group-title="Hiburan dan Permainan",Waku Waku Japan HD
 https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w1503209643_b894100_sleng_80932.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/DuniaLain.png" group-title="Hiburan dan Permainan",Dunia Lain
-https://cdnbpp1.useetv.com/joss/14/dunialain/chunklist_w1968690711_b684100_sleng_53857.m3u8
+https://cdnkbl2.useetv.com/joss/18/dunialain/chunklist_w1965480953_b684100_sleng_53857.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Hiburan dan Permainan",AMC Chanel
 http://live.highstream.club/live/AMC/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.androidfreeware.net/img2/dunia-games.jpg" group-title="Hiburan dan Permainan",Dunia Games
@@ -328,20 +328,21 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" group-title="Macan IPTV",Love Nature
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" group-title="Extra Chanel",Love Nature
 http://iptv.burhansyam.com/kochenk/lovenature.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logogrey/grey_logo_ikonser_big.png" group-title="Macan IPTV",I Konser
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logogrey/grey_logo_ikonser_big.png" group-title="Extra Chanel",I Konser
 http://iptv.burhansyam.com/kochenk/ekonser.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="Macan IPTV",Fox Family Movies Eng
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="Extra Chanel",Fox Family Movies Eng
 http://iptv.burhansyam.com/kochenk/ffm.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="Macan IPTV",Fox Family Movies Ind
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="Extra Chanel",Fox Family Movies Ind
 http://iptv.burhansyam.com/kochenk/ffmid.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2017/06/12/3de46a6f-f2ce-46cf-a7c5-f53f71fcbe95_43.jpeg" group-title="Macan IPTV",Fox Movies Premium
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2017/06/12/3de46a6f-f2ce-46cf-a7c5-f53f71fcbe95_43.jpeg" group-title="Extra Chanel",Fox Movies Premium
 http://iptv.burhansyam.com/kochenk/fmp.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Macan IPTV",tvN
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Extra Chanel",tvN
 http://iptv.burhansyam.com/kochenk/tvn.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="Macan IPTV",tvN Movies
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="Extra Chanel",tvN Movies
 http://iptv.burhansyam.com/kochenk/tvnm.php
+
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/d/d7/TV_1%28Malaysia%29baru.png/250px-TV_1%28Malaysia%29baru.png" group-title="Malaysia",TV1
 http://58.26.3.54/PLTV/88888888/224/3221226228/02.m3u8
