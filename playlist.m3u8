@@ -108,7 +108,10 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="Olahraga",NBA
 https://cdnjt25.useetv.com/joss/15/nba/chunklist_w1423504559_b1344100_sleng_79873.m3u8
 #EXTINF:-1  tvg-logo="https://images.useetv.com/logo_golfplus_big1.png" group-title="Olahraga",GOLF PLUS
-https://cdnbpp1.useetv.com/joss/15/golfplus/chunklist_w1719035610_b1344100_sleng_79871.m3u8
+https://cdnjt25.useetv.com/joss/15/golfplus/chunklist_w1719035610_b1344100_sleng_79871.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Olahraga",UseePrime
+https://cdnjt25.useetv.com/joss/15/useeprime/chunklist_w762636917_b894100_sleng_34881.m3u8
+
 
 
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
@@ -185,7 +188,7 @@ https://cdnjt25.useetv.com/joss/18/boomerang/chunklist_w1666935764_b684100_sleng
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="Anak",Dunia Anak
 https://cdnjt25.useetv.com/joss/18/duniaanak/chunklist_w158579925_b684100_sleng_54966.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png" group-title="Anak",Davinci Learning
-https://vcdnjt.useetv.com/joss/18/davinci/chunklist_w1886388965_b684100_sleng_54966.m3u8
+https://cdnjt25.useetv.com/joss/18/davinci/chunklist_w1886388965_b684100_sleng_54966.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="Anak",Toonmax
 http://45.126.83.51/qwr9ew/s/s50/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/53/f1/6b53f152-19f7-0f16-b013-3f68739b83ed/source/512x512bb.jpg" group-title="Anak",Larva TV
@@ -206,8 +209,6 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.giniko.com/logos/190x110/358.png" group-title="Anak",GEM Junior
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2f/StoonPlus_logo.png" group-title="Anak",Spacetoon Plus
-https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sleng_80925.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.xtrimtv.com/iptvadmin/tvlogo/Gong_max_logo.webp" group-title="Anak",Gong Max TV
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
@@ -381,7 +382,7 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/c
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/6Gh76BXazn.png" group-title="Korea",KBS World
 https://cdnjt25.useetv.com/joss/15/kbsworld/chunklist_w1588270574_b1344100_sleng_burhansyam.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg" group-title="Korea",TVN Movies
-https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
+https://cdnjt25.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="India",Zee Bioskop
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
@@ -394,7 +395,7 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 
 #EXTINF:0  tvg-logo="https://tv9.co.id/images/foot-icon.png" group-title="TV RELIGI",TV 9 Nusantara
-https://vcdnjt.useetv.com/joss/18/tv9/chunklist_w436770064_b684100_sleng_177560.m3u8
+https://cdnjt25.useetv.com/joss/18/tv9/chunklist_w436770064_b684100_sleng_177560.m3u8
 #EXTINF:0  tvg-logo="https://4.bp.blogspot.com/-3vLl9FLuG7Y/WGdfkzywsqI/AAAAAAAAguI/SzWejpEfAEMjs9Z0wssljtAvxQIjsuvlQCLcB/s1600/insan-tv-channel-logo.png" group-title="TV RELIGI",INSAN TV
 http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 #EXTINF:0  tvg-logo="https://ahsan.tv/wp-content/uploads/2019/12/AhsanTV-logo01.jpg" group-title="TV RELIGI",Ahsan TV
