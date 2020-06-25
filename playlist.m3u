@@ -120,7 +120,7 @@ https://iptv.burhansyam.com/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits
 https://iptv.burhansyam.com/hbotest/hits.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="Film",HBO Family
-https://iptv.burhansyam.com/hbotest/hits.m3u8
+https://iptv.burhansyam.com/hbotest/fam.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="Film",HBO Signature
 https://iptv.burhansyam.com/hbotest/sig.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="Film",Red by HBO
@@ -172,6 +172,8 @@ https://edgejt6.useetv.com/joss/18/nickelodeon/chunklist_w1557999000_b684100_sle
 https://edgejt6.useetv.com/joss/18/nickjr/chunklist_w1891479373_b684100_sleng_80916.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Anak",Animax
 https://edgejt6.useetv.com/joss/18/animax/chunklist_w193028450_b684100_sleng_62816.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/24jam.live/wp-content/uploads/2019/09/disney-junior.png" group-title="Anak",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Anak",Aniplus
 https://edgejt6.useetv.com/joss/18/aniplus/chunklist_w99804434_b684100_sleng_46571.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="Anak",Duck TV
@@ -204,6 +206,9 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2f/StoonPlus_logo.png" group-title="Anak",Spacetoon Plus
 https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sleng_80925.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.xtrimtv.com/iptvadmin/tvlogo/Gong_max_logo.webp" group-title="Anak",Gong Max TV
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Pengetahuan",History HD
@@ -233,7 +238,7 @@ https://cdnjt14.useetv.com/joss/18/citradangdut/chunklist_w226584801_b684100_sle
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png" group-title="Musik",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E-jbg5dlGFQ/Xctyf4G342I/AAAAAAAAo24/M5IvvN0jGekYUsruQsSP22gIzcNRxV5GQCLcBGAsYHQ/s1600/lapak-musik-tv-channel-logo.png" group-title="Musik",Lapak Musik
-http://stream1.ninmedia.tv:1935/lapakmusiktv/udp.stream_360p/playlist.m3u8
+https://anevia114.mncnow.id/live/eds/KidsChannel/sa_hls_vmx/KidsChannel.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/9XM_Logo.jpg" group-title="Musik",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-LsywlE2RuPA/Xbefth6CdXI/AAAAAAAAowE/5CeKf_2WVSAA47YQ01yCvWEBLU9iONADgCLcBGAsYHQ/s1600/t-musik-tv-channel-logo.png" group-title="Musik",T Musik
