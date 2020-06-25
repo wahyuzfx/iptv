@@ -6,7 +6,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV
 http://iptv.burhansyam.com/usee/net.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Nasional",ANTV
-https://cdnjt25.useetv.com/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar
@@ -347,9 +347,13 @@ http://iptv.burhansyam.com/kochenk/fmp.php
 http://iptv.burhansyam.com/kochenk/tvn.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="Extra Chanel",tvN Movies
 http://iptv.burhansyam.com/kochenk/tvnm.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Extra Chanel",Fox Action Movies
+http://mrbjmiptv.online/play/yox@mrbjmiptv.online/48898969/bB5sdIIt/norvegicus/fox_action_movies_norvegicus/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Extra Chanel",Celestial Classic Movies
+http://mrbjmiptv.online/play/yox@mrbjmiptv.online/48898969/RxirfrEk/norvegicus/celestial_classic_movies_norvegicus/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuperafrica1.jpg" group-title="Extra Chanel",Super Sport 1 HD
 http://198.16.100.210:12012/live/359111068247FFA1/eawV2m_stE-m1ej35o5BCVq1frVAWdECYKk2IWiBwbVFP0NWPYGXxl0lbdQIAQDv/E9F3ABF31C274409/746118.ts
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuperafrica1.jpg" group-title="Extra Chanel",Super Sport 3 HD
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Extra Chanel",Super Sport 3 HD
 http://198.16.100.210:12012/live/359111068247FFA1/wzXjAtYKSbLhxoo23ZxkafeYfsmvW1LDW9z0-Q-QWggM-_f2w042GWyJMgSeLEsy/242E0C9A99C849A5/652648.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Extra Chanel",Super Sport 4 HD
 http://198.16.100.210:12012/live/359111068247FFA1/pmIbz-1lGxdw88RQF7mPfw1tDDI8Upn42EYwU05JLlwArBZrIC6JSl8ku2jsUx9h/355C7F3AD5C84E20/128193.ts
