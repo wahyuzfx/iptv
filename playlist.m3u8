@@ -4,13 +4,13 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV
-http://iptv.burhansyam.com/net.m3u8
+http://iptv.burhansyam.com/vidio/net.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Nasional",ANTV (off)
 http://iptv.burhansyam.com/antv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar
-http://iptv.burhansyam.com/indosiar.m3u8
+http://iptv.burhansyam.com/vidio/indosiar.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI
 http://iptv.burhansyam.com/rcti.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",GLOBALTV
@@ -30,9 +30,9 @@ http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_big1.png" group-title="TV Nasional",JTV
 http://iptv.burhansyam.com/usee/jtv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="TV Nasional",O Channel
-http://iptv.burhansyam.com/ochan/ochanel.m3u8
+http://iptv.burhansyam.com/vidio/ochanel.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_jaktv_big1.png" group-title="TV Nasional",Jak TV
-http://iptv.burhansyam.com/jak/jaktv.m3u8
+http://iptv.burhansyam.com/vidio/jaktv.m3u8
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/MyTV.png" group-title="TV Nasional",MY TV
 http://iptv.burhansyam.com/usee/mytv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI
@@ -42,7 +42,7 @@ http://iptv.burhansyam.com/usee/antara.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Nasional",Berita Satu News
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sYTrkH4xaaNismc1qSEYPvnwQTU=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg" group-title="TV Nasional",DAAI TV
-http://iptv.burhansyam.com/daai/daai.m3u8
+http://iptv.burhansyam.com/vidio/daai.m3u8
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="TV Nasional",The Indonesia Chanel
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI Yogyakarta
