@@ -162,29 +162,29 @@ http://iptv.burhansyam.com/useetv/chinesedrama.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Anak",Cartoon Network
-http://iptv.burhansyam.com/usee/cnet.m3u8
+http://iptv.burhansyam.com/useetv/cartoonnetwork.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/73-732656_dreamworkstv-dreamworks-tv-png-logo-transparent-png.png" group-title="Anak",Dreamwork
-http://iptv.burhansyam.com/usee/dreamwork.m3u8
+http://iptv.burhansyam.com/useetv/dreamworks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Anak",Nickelodeon ID
-http://iptv.burhansyam.com/usee/nick.m3u8
+http://iptv.burhansyam.com/useetv/nickelodeon.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Anak",Nick Jr ID
-http://iptv.burhansyam.com/usee/nickjr.m3u8
+http://iptv.burhansyam.com/useetv/nickjr.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/24jam.live/wp-content/uploads/2019/09/disney-junior.png" group-title="Anak",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Anak",Animax
-http://iptv.burhansyam.com/usee/animax.m3u8
+http://iptv.burhansyam.com/useetv/animax.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Anak",Aniplus
-http://iptv.burhansyam.com/usee/aniplus.m3u8
+http://iptv.burhansyam.com/useetv/aniplus.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="Anak",Duck TV
-http://iptv.burhansyam.com/usee/duck.m3u8
+http://iptv.burhansyam.com/useetv/ducktv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Anak",Horee
-http://iptv.burhansyam.com/usee/horee.m3u8
+http://iptv.burhansyam.com/useetv/horee.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Anak",Boomerang
-http://iptv.burhansyam.com/usee/boomerang.m3u8
+http://iptv.burhansyam.com/useetv/boomerang.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="Anak",Dunia Anak
-http://iptv.burhansyam.com/usee/dunianak.m3u8
+http://iptv.burhansyam.com/useetv/duniaanak.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png" group-title="Anak",Davinci Learning
-http://iptv.burhansyam.com/usee/davinci.m3u8
+http://iptv.burhansyam.com/useetv/davinci.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="Anak",Toonmax
 http://45.126.83.51/qwr9ew/s/s50/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/53/f1/6b53f152-19f7-0f16-b013-3f68739b83ed/source/512x512bb.jpg" group-title="Anak",Larva TV
@@ -192,7 +192,7 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mpng.subpng.com/20180614/gbo/kisspng-tom-cat-jerry-mouse-tom-and-jerry-tom-jerry-5b21e914857346.7487803615289490125466.jpg" group-title="Anak",Tom Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Anak",Baby First
-http://iptv.burhansyam.com/usee/baby.m3u8
+http://iptv.burhansyam.com/useetv/babyfirst.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png" group-title="Anak",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png" group-title="Anak",Boing TV
