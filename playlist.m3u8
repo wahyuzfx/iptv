@@ -66,23 +66,21 @@ https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1130397670932008961/bFl07ZdC.png" group-title="Olahraga",Mola Sports
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Olahraga",BeIN Sport 1 ID
-http://iptv.burhansyam.com/usee/bein1.m3u8
+http://iptv.burhansyam.com/useetv/bein1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Olahraga",BeIN Sport 2 ID
-http://iptv.burhansyam.com/usee/bein2.m3u8
+http://iptv.burhansyam.com/useetv/bein2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Olahraga",BeIN Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/689545865699139584/lTtOY34z_400x400.jpg" group-title="Olahraga",Fight Sports
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/760059668966158336/uyVkDCL3_400x400.jpg" group-title="Olahraga",MNC Sports
-https://cdn-livetv6.metube.id/hls/mncsport_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.mint.web.id/images/channel/1562105434.png" group-title="Olahraga",TVRI Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="Olahraga",Fox Sports 1
-http://iptv.burhansyam.com/usee/fox1.m3u8
+http://iptv.burhansyam.com/useetv/foxsport1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="Olahraga",Fox Sports 2
-http://iptv.burhansyam.com/usee/fox2.m3u8
+http://iptv.burhansyam.com/useetv/foxsport2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="Olahraga",Fox Sports 3
-http://iptv.burhansyam.com/usee/fox3.m3u8
+http://iptv.burhansyam.com/useetv/foxsport3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.logolynx.com/images/logolynx/d9/d949b7315021ca8b57498f4ee6381025.jpeg" group-title="Olahraga",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.loganmcgillracing.com.au/assets/images/logan/link/9.png" group-title="Olahraga",Racing.Com
@@ -96,21 +94,21 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bc/FightBox_%282013%29.svg/revision/latest/scale-to-width-down/340?cb=20171210175839" group-title="Olahraga",FightBox
 https://dl.dropboxusercontent.com/s/r2tg76euq1faxxl/fightbox.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/indisport2/images/IndiSport2-20rb_03.jpg" group-title="Olahraga",Usee Sports
-http://iptv.burhansyam.com/usee/useesport.m3u8
+http://iptv.burhansyam.com/useetv/useesport.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/indisport2/images/UseeSport-2-HD.png" group-title="Olahraga",Usee Sports 2
-http://iptv.burhansyam.com/usee/useesport2.m3u8
+http://iptv.burhansyam.com/useetv/useesports2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1.png" group-title="Olahraga",Champion TV1
-http://iptv.burhansyam.com/usee/cham1.m3u8
+http://iptv.burhansyam.com/useetv/champion1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2.png" group-title="Olahraga",Champion TV2
-http://iptv.burhansyam.com/usee/cham2.m3u8
+http://iptv.burhansyam.com/useetv/champion2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f1/25/3c/f1253c7c16fee1f1ed923fc9789e1725.jpg" group-title="Olahraga",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="Olahraga",NBA
-http://iptv.burhansyam.com/usee/nba.m3u8
+http://iptv.burhansyam.com/useetv/nba.m3u8
 #EXTINF:-1  tvg-logo="https://images.useetv.com/logo_golfplus_big1.png" group-title="Olahraga",GOLF PLUS
-http://iptv.burhansyam.com/usee/golf.m3u8
+http://iptv.burhansyam.com/useetv/golf.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Olahraga",UseePrime
-http://iptv.burhansyam.com/usee/useeprime.m3u8
+http://iptv.burhansyam.com/useetv/useeprime.m3u8
 
 
 
