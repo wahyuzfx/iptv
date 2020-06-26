@@ -211,23 +211,24 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Pengetahuan",History HD
-http://iptv.burhansyam.com/usee/history.m3u8
+http://iptv.burhansyam.com/useetv/history.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Pengetahuan",Discovery Channel
-http://iptv.burhansyam.com/usee/discovery.m3u8
+http://iptv.burhansyam.com/useetv/disco.m3u8
 #EXTINF:0  tvg-logo="https://www.tivusat.tv/pages/_common/images/landing/loghi/canale_CGTN_docu.png" group-title="Pengetahuan",CGTN Documentary
-http://iptv.burhansyam.com/usee/cgtn.m3u8
+http://iptv.burhansyam.com/useetv/cgtndocumentary.m3u8
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Pengetahuan",National Geographic Channel HD
 http://iptv.burhansyam.com/usee/natgeo.m3u8
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="Pengetahuan",National Geographic Wild HD
-http://iptv.burhansyam.com/usee/natwild.m3u8
+http://iptv.burhansyam.com/usee/natgeowild.m3u8
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Pengetahuan",National Geographic People
-http://iptv.burhansyam.com/usee/natpeople.m3u8
+http://iptv.burhansyam.com/usee/natgeopeople.m3u8
 #EXTINF:0  tvg-logo="https://www.crimeandinvestigation.de/fileadmin/user_upload/CI_Bild_OG_FB.jpg" group-title="Pengetahuan",Crime Investigation
-http://iptv.burhansyam.com/usee/crime.m3u8
-
+http://iptv.burhansyam.com/usee/crimeinvestigation.m3u8
+#EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Pengetahuan",Lingua
+http://iptv.burhansyam.com/usee/lingua.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="Musik",MTV Live
-http://iptv.burhansyam.com/usee/mtv.m3u8
+http://iptv.burhansyam.com/useetv/mtv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="Musik",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="Musik",POP Musik
