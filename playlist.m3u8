@@ -217,24 +217,24 @@ http://iptv.burhansyam.com/useetv/disco.m3u8
 #EXTINF:0  tvg-logo="https://www.tivusat.tv/pages/_common/images/landing/loghi/canale_CGTN_docu.png" group-title="Pengetahuan",CGTN Documentary
 http://iptv.burhansyam.com/useetv/cgtndocumentary.m3u8
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Pengetahuan",National Geographic Channel HD
-http://iptv.burhansyam.com/usee/natgeo.m3u8
+http://iptv.burhansyam.com/useetv/natgeo.m3u8
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="Pengetahuan",National Geographic Wild HD
-http://iptv.burhansyam.com/usee/natgeowild.m3u8
+http://iptv.burhansyam.com/useetv/natgeowild.m3u8
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Pengetahuan",National Geographic People
-http://iptv.burhansyam.com/usee/natgeopeople.m3u8
+http://iptv.burhansyam.com/useetv/natgeopeople.m3u8
 #EXTINF:0  tvg-logo="https://www.crimeandinvestigation.de/fileadmin/user_upload/CI_Bild_OG_FB.jpg" group-title="Pengetahuan",Crime Investigation
-http://iptv.burhansyam.com/usee/crimeinvestigation.m3u8
+http://iptv.burhansyam.com/useetv/crimeinvestigation.m3u8
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Pengetahuan",Lingua
-http://iptv.burhansyam.com/usee/lingua.m3u8
+http://iptv.burhansyam.com/useetv/lingua.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="Musik",MTV Live
-http://iptv.burhansyam.com/useetv/mtv.m3u8
+http://iptv.burhansyam.com/useetv/mtvlive.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="Musik",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="Musik",POP Musik
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/citra-dangdut.png" group-title="Musik",CITRA DANGDUT
-https://cdnjt25.useetv.com/joss/18/citradangdut/chunklist_w1326516496_b684100_sleng_177560.m3u8
+http://iptv.burhansyam.com/useetv/citradangdut.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png" group-title="Musik",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E-jbg5dlGFQ/Xctyf4G342I/AAAAAAAAo24/M5IvvN0jGekYUsruQsSP22gIzcNRxV5GQCLcBGAsYHQ/s1600/lapak-musik-tv-channel-logo.png" group-title="Musik",Lapak Musik
@@ -245,41 +245,41 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="Hiburan dan Permainan",MY eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png" group-title="Hiburan dan Permainan",Waku Waku Japan HD
-http://iptv.burhansyam.com/usee/wakuwaku.m3u8
+http://iptv.burhansyam.com/useetv/wakuwaku.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/DuniaLain.png" group-title="Hiburan dan Permainan",Dunia Lain
-http://iptv.burhansyam.com/usee/dunialain.m3u8
+http://iptv.burhansyam.com/useetv/dunialain.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.androidfreeware.net/img2/dunia-games.jpg" group-title="Hiburan dan Permainan",Dunia Games
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(80a28b16-86cd-4e4f-83e2-09fd96d7d0e2)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="Hiburan dan Permainan",Blue Ant Extreme
-http://iptv.burhansyam.com/usee/bluext.m3u8
+http://iptv.burhansyam.com/useetv/blueantextreme.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Hiburan dan Permainan",Blue Ant Entertainment
-http://iptv.burhansyam.com/usee/bluent.m3u8
+http://iptv.burhansyam.com/useetv/blueant.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557996699_logo-techstorm.png" group-title="Hiburan dan Permainan",Tech Storm
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Gaya Hidup",Insert
-http://iptv.burhansyam.com/usee/insert.m3u8
+http://iptv.burhansyam.com/useetv/insert.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png" group-title="Gaya Hidup",Eat&Go
-http://iptv.burhansyam.com/usee/eat.m3u8
+http://iptv.burhansyam.com/useetv/eatgo.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-WQlxdL6lzJc/WTmQYGWEIVI/AAAAAAAAHnQ/FtEKJJMJ-5IPoRN9_IekooSA2S0oHwULwCK4B/s1600/20170609004600-735840.jpg" group-title="Gaya Hidup",Hi!
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Gaya Hidup",AFN
-http://iptv.burhansyam.com/usee/afn.m3u8
+http://iptv.burhansyam.com/useetv/afc.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/501908385294323712/uxIEi9C1_400x400.jpeg" group-title="Gaya Hidup",ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Gaya Hidup",FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Gaya Hidup",Fashion TV
-http://iptv.burhansyam.com/usee/fashion.m3u8
+http://iptv.burhansyam.com/useetv/fashiontv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_useephoto_small.png" group-title="Gaya Hidup",Usee Photo
-http://iptv.burhansyam.com/usee/uphoto.m3u8
+http://iptv.burhansyam.com/useetv/useephoto.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Gaya Hidup",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/HOME-LIVING.jpg" group-title="Gaya Hidup",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png" group-title="Gaya Hidup",Ruang Terampil
-https://cdnjt25.useetv.com/joss/15/useeinfo/chunklist_w1966297711_b1344100_sleng_122439.m3u8
+http://iptv.burhansyam.com/useetv/useeinfo.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="Gaya Hidup",TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617-b/tv5asieen/tv5asie_eng_1200.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="Gaya Hidup",TV5 Monde Style
@@ -343,7 +343,7 @@ http://iptv.burhansyam.com/kochenk/tvnm.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Extra Chanel",Fox Action Movies
 http://mrbjmiptv.online/play/yox@mrbjmiptv.online/48898969/bB5sdIIt/norvegicus/fox_action_movies_norvegicus/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Extra Chanel",Celestial Classic Movies
-http://mrbjmiptv.online/play/yox@mrbjmiptv.online/48898969/2IWEZWaQ/norvegicus/celestial_classic_movies_norvegicus/playlist.m3u8
+http://mrbjmiptv.online/play/yox@mrbjmiptv.online/48898969/bB5sdIIt/norvegicus/celestial_classic_movies_norvegicus/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuperafrica1.jpg" group-title="Extra Chanel",Super Sport 1 HD
 http://198.16.100.210:12012/live/359111068247FFA1/eawV2m_stE-m1ej35o5BCVq1frVAWdECYKk2IWiBwbVFP0NWPYGXxl0lbdQIAQDv/E9F3ABF31C274409/746118.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Extra Chanel",Super Sport 3 HD
@@ -377,13 +377,13 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/TvN_Old.jpg" group-title="Korea",TVN
-http://iptv.burhansyam.com/usee/tvn.m3u8
+http://iptv.burhansyam.com/useetv/tvn.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="Korea",K Plus
-http://iptv.burhansyam.com/usee/kplus.m3u8
+http://iptv.burhansyam.com/useetv/kplus.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-kMloFMG0Mt4/Waquz5GL5xI/AAAAAAAAAGQ/TY1bdc6tx-IzDlcf_5gaSPwoHlIt9p4jgCLcBGAs/w1200-h630-p-k-no-nu/S-One-HD-Ch393.png" group-title="Korea",Sony One
-http://iptv.burhansyam.com/usee/sone.m3u8
+http://iptv.burhansyam.com/useetv/sone.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Sony_gem_asia.png" group-title="Korea",Sony Gem
-https://cdnjt25.useetv.com/joss/15/sgem/chunklist_w137615439_b894100_sleng_burhansyam.m3u8
+http://iptv.burhansyam.com/useetv/sgem.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/880680263742894080/MUuQgbht.jpg" group-title="Korea",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png" group-title="Korea",SBS Plus
@@ -391,9 +391,9 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1280px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="Korea",SBS Korea
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/6Gh76BXazn.png" group-title="Korea",KBS World
-https://cdnjt25.useetv.com/joss/15/kbsworld/chunklist_w1588270574_b1344100_sleng_burhansyam.m3u8
+http://iptv.burhansyam.com/useetv/kbsworld.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg" group-title="Korea",TVN Movies
-https://cdnjt25.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
+http://iptv.burhansyam.com/useetv/tvnmovies.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="India",Zee Bioskop
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
@@ -406,7 +406,7 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 
 #EXTINF:0  tvg-logo="https://tv9.co.id/images/foot-icon.png" group-title="TV RELIGI",TV 9 Nusantara
-https://cdnjt25.useetv.com/joss/18/tv9/chunklist_w436770064_b684100_sleng_177560.m3u8
+http://iptv.burhansyam.com/useetv/tv9.m3u8
 #EXTINF:0  tvg-logo="https://4.bp.blogspot.com/-3vLl9FLuG7Y/WGdfkzywsqI/AAAAAAAAguI/SzWejpEfAEMjs9Z0wssljtAvxQIjsuvlQCLcB/s1600/insan-tv-channel-logo.png" group-title="TV RELIGI",INSAN TV
 http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 #EXTINF:0  tvg-logo="https://ahsan.tv/wp-content/uploads/2019/12/AhsanTV-logo01.jpg" group-title="TV RELIGI",Ahsan TV
