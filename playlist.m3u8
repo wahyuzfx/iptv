@@ -235,6 +235,8 @@ http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/citra-dangdut.png" group-title="Musik",CITRA DANGDUT
 http://iptv.burhansyam.com/useetv/citradangdut.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="Musik",Prambors
+http://iptv.burhansyam.com/useetv/pramborstv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png" group-title="Musik",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E-jbg5dlGFQ/Xctyf4G342I/AAAAAAAAo24/M5IvvN0jGekYUsruQsSP22gIzcNRxV5GQCLcBGAsYHQ/s1600/lapak-musik-tv-channel-logo.png" group-title="Musik",Lapak Musik
@@ -317,7 +319,7 @@ http://210.210.155.35/qwr9ew/s/s23/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1045.1565613151.png" group-title="Berita dan Informasi",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.abc.net.au/core/assets/abchome.png" group-title="Berita dan Informasi",ABC Australia
-http://iptv.burhansyam.com/usee/abcau.m3u8
+http://iptv.burhansyam.com/useetv/abcaustralia.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png" group-title="Berita dan Informasi",Aljazeera English
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6554.1489225299.png" group-title="Berita dan Informasi",Fox Sports News
