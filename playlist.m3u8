@@ -161,7 +161,7 @@ http://iptv.burhansyam.com/useetv/chinesedrama.m3u8
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Anak",Cartoon Network
+#EXTINF:0 tvg-id="" tvg-name="cartoonnetwork.id" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Anak",Cartoon Network
 http://iptv.burhansyam.com/useetv/cartoonnetwork.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/73-732656_dreamworkstv-dreamworks-tv-png-logo-transparent-png.png" group-title="Anak",Dreamwork
 http://iptv.burhansyam.com/useetv/dreamworks.m3u8
