@@ -40,9 +40,9 @@ http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=00
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/AntaraTV.png" group-title="TV Nasional",ANTARA
 http://iptv.burhansyam.com/useetv/antara.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Nasional",Berita Satu News
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sYTrkH4xaaNismc1qSEYPvnwQTU=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg" group-title="TV Nasional",DAAI TV
-http://iptv.burhansyam.com/vidio/daai.m3u8
+http://iptv.burhansyam.com/useetv/beritasatu.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="TV Nasional",DAAI TV
+http://iptv.burhansyam.com/useetv/daaitv.m3u8
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="TV Nasional",The Indonesia Chanel
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI Yogyakarta
@@ -205,7 +205,7 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.giniko.com/logos/190x110/358.png" group-title="Anak",GEM Junior
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.xtrimtv.com/iptvadmin/tvlogo/Gong_max_logo.webp" group-title="Anak",Gong Max TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvepg.eu/img/france/logo/gong_max.png" group-title="Anak",Gong Max TV
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 
@@ -274,6 +274,8 @@ http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Gaya Hidup",Fashion TV
 http://iptv.burhansyam.com/useetv/fashiontv.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_fashionone_small1.png" group-title="Gaya Hidup",Usee Photo
+http://iptv.burhansyam.com/useetv/fashionone.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_useephoto_small.png" group-title="Gaya Hidup",Usee Photo
 http://iptv.burhansyam.com/useetv/useephoto.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Gaya Hidup",Food Network
@@ -294,6 +296,8 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifiqu
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/220px-CNBC_Indonesia.png" group-title="Berita dan Informasi",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.abc.net.au/core/assets/abchome.png" group-title="Berita dan Informasi",ABC Australia
+http://iptv.burhansyam.com/useetv/abcaustralia.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/deutsche_welle.png" group-title="Berita dan Informasi",DW TV Asia
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-x7xFtvyiszc/VwSRgKroVrI/AAAAAAAAdKE/3KIriwLqcusTN60EcJP8wu5mRubV2jddA/s1600/cctv-4-logo.png" group-title="Berita dan Informasi",CN: CCTV 4
@@ -318,8 +322,6 @@ http://1904441568.rsc.cdn77.org/1904441568/tracks-v1a1/mono.m3u8
 http://210.210.155.35/qwr9ew/s/s23/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1045.1565613151.png" group-title="Berita dan Informasi",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.abc.net.au/core/assets/abchome.png" group-title="Berita dan Informasi",ABC Australia
-http://iptv.burhansyam.com/useetv/abcaustralia.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png" group-title="Berita dan Informasi",Aljazeera English
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6554.1489225299.png" group-title="Berita dan Informasi",Fox Sports News
