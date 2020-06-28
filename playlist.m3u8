@@ -116,16 +116,26 @@ http://iptv.burhansyam.com/useetv/useeprime.m3u8
 https://iptv.burhansyam.com/hbotest/hbo.m3u8
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO SD
 https://iptv.burhansyam.com/hbo.m3u8
-#EXTINF:-1 tvg-name="HBOHits.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits HD
+#EXTINF:0 tvg-name="HBOHits.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits HD
 https://iptv.burhansyam.com/hbotest/hits.m3u8
-#EXTINF:-1 tvg-name="HBOFamily.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="Film",HBO Family HD
+#EXTINF:0 tvg-name="HBOHits.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits SD
+https://iptv.burhansyam.com/hbo/hits-sd.m3u8
+#EXTINF:0 tvg-name="HBOFamily.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="Film",HBO Family HD
 https://iptv.burhansyam.com/hbotest/fam.m3u8
-#EXTINF:-1 tvg-name="HBOSignature.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="Film",HBO Signature HD
+#EXTINF:0 tvg-name="HBOFamily.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="Film",HBO Family SD
+https://iptv.burhansyam.com/hbo/fam-sd.m3u8
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="Film",HBO Signature HD
 https://iptv.burhansyam.com/hbotest/sig.m3u8
-#EXTINF:-1 tvg-name="HBOSignature.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="Film",Red By HBO HD
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="Film",HBO Signature SD
+https://iptv.burhansyam.com/hbo/sig-sd.m3u8
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="Film",Red By HBO HD
 https://iptv.burhansyam.com/hbotest/red.m3u8
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="Film",Cinemax HD
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="Film",Red By HBO SD
+https://iptv.burhansyam.com/hbo/red-sd.m3u8
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="Film",Cinemax HD
 https://iptv.burhansyam.com/hbotest/max.m3u8
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="Film",Cinemax SD
+https://iptv.burhansyam.com/hbo/max-sd.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Film",Warner TV ID HD
 http://iptv.burhansyam.com/useetv/warner.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Extra-HD/images/ExtraHD-20rb_20.jpg" group-title="Film",FLIK
